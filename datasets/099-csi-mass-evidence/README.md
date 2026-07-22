@@ -1,5 +1,8 @@
 # Dataset: Mass Crime Scene Evidence Management
 
+**Case Studies using this dataset:**
+- [Mass Crime Scene Evidence Management](https://aplly.xyz/case-studies/mass-crime-scene-evidence-management)
+
 **Columns:** evidence_id, type, location_grid, recovery_time, recovery_officer, photographed, bagged_tagged, chain_of_custody_steps, lab_received, analysis_status, storage_location, linked_to_victim, linked_to_suspect, priority_level, contamination_risk
 
 **Rows:** 13

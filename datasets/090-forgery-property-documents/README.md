@@ -1,5 +1,8 @@
 # Dataset: Property Document Forgery Analysis
 
+**Case Studies using this dataset:**
+- [Property Document Forgery Analysis](https://aplly.xyz/case-studies/property-document-forgery-analysis)
+
 **Columns:** document_id, document_type, property_value_rs, registrar_office, registration_date, signature_anomalies, seal_anomalies, paper_age_mismatch, ink_analysis_result, digital_signature_valid, witness_signatures, land_record_match, encumbrance_check, reported_as_fake, forgery_technique
 
 **Rows:** 14

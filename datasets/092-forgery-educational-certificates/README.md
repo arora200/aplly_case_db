@@ -1,5 +1,8 @@
 # Dataset: Educational Certificate Fraud Investigation
 
+**Case Studies using this dataset:**
+- [Educational Certificate Fraud Investigation](https://aplly.xyz/case-studies/educational-certificate-fraud-investigation)
+
 **Columns:** certificate_id, institution, degree, year_of_issue, candidate_name, registration_number_valid, university_records_match, hologram_genuine, signature_forged, watermark_missing, font_anomaly, qrcode_verification, ga_letter_verified, employer_flagged, action_taken
 
 **Rows:** 15

@@ -1,5 +1,8 @@
 # Dataset: Social Media Identity Theft Ring
 
+**Case Studies using this dataset:**
+- [Social Media Identity Theft Ring](https://aplly.xyz/case-studies/social-media-identity-theft-ring)
+
 **Columns:** victim_id, platform, account_age_months, followers_count, impersonator_handle, similarity_score_pct, fake_accounts_detected, stolen_posts_count, reported, action_taken, ransom_demanded
 
 **Rows:** 15

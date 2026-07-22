@@ -1,5 +1,8 @@
 # Dataset: Mass Disaster Victim Identification
 
+**Case Studies using this dataset:**
+- [Mass Disaster Victim Identification](https://aplly.xyz/case-studies/mass-disaster-victim-identification)
+
 **Columns:** victim_id, body_condition, dna_sample_taken, dna_profile_status, dental_records_available, fingerprints_available, medical_implants, tattoo_scar_mark, personal_effects, dental_comparison_status, fingerprint_match_status, dna_match_status, family_reference_sample, identified, identification_method
 
 **Rows:** 14

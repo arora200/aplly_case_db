@@ -1,5 +1,8 @@
 # Dataset: Paternity Dispute Case Analysis
 
+**Case Studies using this dataset:**
+- [Paternity Dispute Case Analysis](https://aplly.xyz/case-studies/paternity-dispute-case-analysis)
+
 **Columns:** case_id, child_age, alleged_father_age, mother_age, loci_tested, paternal_alleles_matched, maternal_alleles_matched, mutation_count, combined_paternity_index, probability_of_paternity_pct, half_sibling_index, ethnicity_frequency, test_type, court_accepted, dispute_resolved
 
 **Rows:** 12

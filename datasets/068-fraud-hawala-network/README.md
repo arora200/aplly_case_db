@@ -1,5 +1,8 @@
 # Dataset: Hawala Money Transfer Network Analysis
 
+**Case Studies using this dataset:**
+- [Hawala Money Transfer Network Analysis](https://aplly.xyz/case-studies/hawala-money-transfer-network-analysis)
+
 **Columns:** transaction_id, date, sender_name, sender_location, receiver_name, receiver_location, amount_rs, currency, intermediary_count, route, purpose_stated, bank_involved, layer_number, flagged_pattern, investigation_status
 
 **Rows:** 15

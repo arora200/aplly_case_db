@@ -1,5 +1,8 @@
 # Dataset: Poisoning Death Investigation Analysis
 
+**Case Studies using this dataset:**
+- [Poisoning Death Investigation Analysis](https://aplly.xyz/case-studies/poisoning-death-investigation-analysis)
+
 **Columns:** case_id, victim_age, victim_gender, suspected_poison, toxin_detected, concentration_mg_per_L, time_to_symptoms_mins, time_to_death_hrs, autopsy_findings, organ_affected, food_source, water_source, occupational_exposure, ruled_suicide, ruled_homicide, ruled_accident
 
 **Rows:** 14

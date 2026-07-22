@@ -1,5 +1,8 @@
 # Dataset: Wildlife Poaching DNA Forensics
 
+**Case Studies using this dataset:**
+- [Wildlife Poaching DNA Forensics](https://aplly.xyz/case-studies/wildlife-poaching-dna-forensics)
+
 **Columns:** evidence_id, species, location_seized, date_seized, sample_type, dna_marker, population_origin_match, geographic_origin, supply_chain_node, trafficking_route, seizure_weight_kg, estimated_value_rs, suspect_arrested, case_filed, conviction_possible
 
 **Rows:** 12

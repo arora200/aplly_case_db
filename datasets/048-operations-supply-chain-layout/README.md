@@ -1,5 +1,9 @@
 # Dataset: Operations Management — Supply Chain & Factory Layout
 
+**Case Studies using this dataset:**
+- [Supply Chain Optimization for E-Commerce](https://aplly.xyz/case-studies/ecommerce-supply-chain)
+- [Operations Management: Factory Layout](https://aplly.xyz/case-studies/operations-factory-layout)
+
 **Columns:** facility, process, daily_capacity_units, actual_throughput, defect_rate_pct, unit_cost_rs, setup_time_mins, downtime_pct, lead_time_days, wip_inventory, labor_efficiency_pct, automation_pct
 
 **Rows:** 10

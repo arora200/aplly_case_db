@@ -1,5 +1,8 @@
 # Dataset: Missing Persons Pattern Investigation
 
+**Case Studies using this dataset:**
+- [Missing Persons Pattern Investigation](https://aplly.xyz/case-studies/missing-persons-pattern-investigation)
+
 **Columns:** case_id, person_name, age, gender, last_seen_location, last_seen_date, time_missing_days, circumstance, suspected_area_km2, phone_last_ping, bank_activity_post, social_media_activity, persons_of_interest, status, linked_cases
 
 **Rows:** 15

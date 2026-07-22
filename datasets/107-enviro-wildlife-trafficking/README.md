@@ -1,5 +1,8 @@
 # Dataset: Wildlife Trafficking Route Analysis
 
+**Case Studies using this dataset:**
+- [Wildlife Trafficking Route Analysis](https://aplly.xyz/case-studies/wildlife-trafficking-route-analysis)
+
 **Columns:** seizure_id, date, location, species, parts_seized, estimated_value_rs, origin_state, transit_states, destination, transport_mode, concealment_method, poaching_hotspot_nearby, protected_area_involved, international_route, arrests_made, ngo_involved
 
 **Rows:** 12

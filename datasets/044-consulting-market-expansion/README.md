@@ -1,5 +1,8 @@
 # Dataset: Interview Case (Consulting) — Market Expansion
 
+**Case Studies using this dataset:**
+- [Interview Case: Market Expansion](https://aplly.xyz/case-studies/interview-market-expansion)
+
 **Columns:** market, population_lakhs, gdp_per_capita_usd, internet_pct, smartphone_pct, competitor_count, regulatory_ease, market_share_leader_pct, avg_revenue_per_user, growth_rate_pct, entry_cost_cr
 
 **Rows:** 12

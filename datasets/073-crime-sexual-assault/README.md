@@ -1,5 +1,8 @@
 # Dataset: Sexual Assault Pattern and Location Analysis
 
+**Case Studies using this dataset:**
+- [Sexual Assault Pattern and Location Analysis](https://aplly.xyz/case-studies/sexual-assault-pattern-location-analysis)
+
 **Columns:** incident_id, date, time, location, location_type, day_of_week, victim_age_group, perpetrator_known, perpetrator_relation, weapon_threat, prior_complaints_in_area, cctv_available, forensic_evidence_collected, reported_within_24hrs, pattern_match_score
 
 **Rows:** 14

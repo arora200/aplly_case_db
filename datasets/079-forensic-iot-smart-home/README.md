@@ -1,5 +1,8 @@
 # Dataset: IoT Device Forensics in Smart Home Crime
 
+**Case Studies using this dataset:**
+- [IoT Device Forensics in Smart Home Crime](https://aplly.xyz/case-studies/iot-device-forensics-smart-home-crime)
+
 **Columns:** evidence_id, device_type, device_id, timestamp, event_type, sensor_reading, network_packet, firmware_version, vulnerability_known, user_action, anomaly_score, corroborates_testimony, chain_of_custody
 
 **Rows:** 13

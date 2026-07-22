@@ -1,5 +1,8 @@
 # Dataset: Illegal Mining Detection and Impact Assessment
 
+**Case Studies using this dataset:**
+- [Illegal Mining Detection and Impact Assessment](https://aplly.xyz/case-studies/illegal-mining-detection-impact-assessment)
+
 **Columns:** incident_id, date, location_area_type, mineral_mined, estimated_tonnage, area_affected_hectares, water_table_drop_m, vegetation_loss_pct, air_quality_degradation, noise_pollution_db, blast_reported, equipment_seized, arrests_made, restoration_ordered, compensation_imposed_rs
 
 **Rows:** 14

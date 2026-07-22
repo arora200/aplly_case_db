@@ -1,5 +1,8 @@
 # Dataset: Cloud Storage Forensics in Corporate Espionage
 
+**Case Studies using this dataset:**
+- [Cloud Storage Forensics in Corporate Espionage](https://aplly.xyz/case-studies/cloud-storage-forensics-corporate-espionage)
+
 **Columns:** evidence_id, cloud_provider, account_type, accessed_by, access_timestamp, file_accessed, file_type, action, ip_address, geo_location, device_fingerprint, shared_with, data_classification, nda_signed, security_clearance
 
 **Rows:** 12

@@ -1,5 +1,8 @@
 # Dataset: Business Strategy — Market Entry for EVs in India
 
+**Case Studies using this dataset:**
+- [Market Entry Strategy for Electric Vehicles in India](https://aplly.xyz/case-studies/ev-market-entry-india)
+
 **Columns:** company, segment, market_size_cr, growth_rate_pct, competitor_count, entry_barrier, regulatory_hurdle, avg_margin_pct
 
 **Rows:** 16

@@ -1,5 +1,8 @@
 # Dataset: Illegal Waste Dumping Investigation
 
+**Case Studies using this dataset:**
+- [Illegal Waste Dumping Investigation](https://aplly.xyz/case-studies/illegal-waste-dumping-investigation)
+
 **Columns:** incident_id, date, location, waste_type, quantity_tonnes, estimated_volume_cum, hazardous, water_source_contaminated, distance_to_residential_km, complaints_received, responsible_party_identified, notice_issued, penalty_imposed_rs, cleanup_done, recurrence
 
 **Rows:** 13

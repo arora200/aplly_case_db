@@ -1,5 +1,8 @@
 # Dataset: Fraud Victim Targeting Pattern Analysis
 
+**Case Studies using this dataset:**
+- [Fraud Victim Targeting Pattern Analysis](https://aplly.xyz/case-studies/fraud-victim-targeting-pattern-analysis)
+
 **Columns:** case_id, victim_age_group, victim_gender, victim_income_bracket, fraud_type, contact_method, initial_contact_time, grooming_duration_days, amount_lost_rs, victim_education_level, victim_financial_literacy_score, reported_to_authorities, victim_support_provided, recidivism_in_network, prevention_tip_shared
 
 **Rows:** 15

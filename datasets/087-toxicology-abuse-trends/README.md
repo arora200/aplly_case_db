@@ -1,5 +1,8 @@
 # Dataset: Drug Abuse Trend Analysis for Policy Making
 
+**Case Studies using this dataset:**
+- [Drug Abuse Trend Analysis for Policy Making](https://aplly.xyz/case-studies/drug-abuse-trend-analysis-policy-making)
+
 **Columns:** year, quarter, drug_category, users_estimated_lakhs, seizures_kg, deaths_reported, treatment_centers, rehab_intakes, avg_age_of_initiation, most_affected_state, urban_pct, rural_pct, male_pct, female_pct, policy_change_recommended
 
 **Rows:** 12

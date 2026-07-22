@@ -1,5 +1,8 @@
 # Dataset: Insurance Claim Fraud Detection
 
+**Case Studies using this dataset:**
+- [Insurance Claim Fraud Detection](https://aplly.xyz/case-studies/insurance-claim-fraud-detection)
+
 **Columns:** claim_id, policy_type, claim_amount_rs, policy_holder_age, policy_tenure_months, claim_reason, accident_location, witness_available, police_report_filed, medical_reports_count, claim_history_count, discrepancy_count, fraud_score, investigation_required, fraud_confirmed
 
 **Rows:** 15

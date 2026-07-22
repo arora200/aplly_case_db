@@ -1,5 +1,8 @@
 # Dataset: Cryptocurrency Investment Fraud Analysis
 
+**Case Studies using this dataset:**
+- [Cryptocurrency Investment Fraud Analysis](https://aplly.xyz/case-studies/cryptocurrency-investment-fraud-analysis)
+
 **Columns:** case_id, platform_name, scheme_type, investors_count, total_lost_usd, promised_return_pct, duration_months, promoter_location, promoter_arrested, recovery_pct, countries_involved, exchanges_used
 
 **Rows:** 15

@@ -1,5 +1,8 @@
 # Dataset: Interview Case (Marketing) — Product Launch Strategy
 
+**Case Studies using this dataset:**
+- [Interview Case: Product Launch Strategy](https://aplly.xyz/case-studies/interview-product-launch)
+
 **Columns:** segment, population_lakhs, awareness_pct, consideration_pct, preference_pct, purchase_intent_pct, price_sensitivity, distribution_reach_pct, ad_spend_cr, competitor_ad_spend_cr, brand_loyalty_index
 
 **Rows:** 12

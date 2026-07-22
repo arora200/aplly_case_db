@@ -1,5 +1,8 @@
 # Dataset: Homicide Investigation Timeline Reconstruction
 
+**Case Studies using this dataset:**
+- [Homicide Investigation Timeline Reconstruction](https://aplly.xyz/case-studies/homicide-investigation-timeline-reconstruction)
+
 **Columns:** event_id, timestamp, event_type, location, person_involved, role, evidence_item, forensic_finding, witness_statement, investigator_note, timeline_confidence, linked_to_case
 
 **Rows:** 13

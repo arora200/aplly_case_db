@@ -1,5 +1,8 @@
 # Dataset: Drug Trafficking Pattern Analysis
 
+**Case Studies using this dataset:**
+- [Drug Trafficking Pattern Analysis](https://aplly.xyz/case-studies/drug-trafficking-pattern-analysis)
+
 **Columns:** seizure_id, date, location, drug_type, quantity_kg, purity_pct, street_value_cr, origin, transit_countries, destination, carrier_method, hidden_compartment, related_seizures, network_link, operation_name
 
 **Rows:** 13

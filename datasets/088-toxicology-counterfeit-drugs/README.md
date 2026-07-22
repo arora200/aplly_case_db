@@ -1,5 +1,8 @@
 # Dataset: Counterfeit Drug Network Investigation
 
+**Case Studies using this dataset:**
+- [Counterfeit Drug Network Investigation](https://aplly.xyz/case-studies/counterfeit-drug-network-investigation)
+
 **Columns:** seizure_id, date, location, drug_name, genuine_manufacturer, batches_seized, units_seized, estimated_loss_cr, manufacturing_source, distribution_route, retail_outlets_raided, arrests, active_ingredient_pct, label_dosage, actual_dosage, health_incidents_reported
 
 **Rows:** 14

@@ -1,5 +1,8 @@
 # Dataset: GST Tax Evasion Network Mapping
 
+**Case Studies using this dataset:**
+- [GST Tax Evasion Network Mapping](https://aplly.xyz/case-studies/gst-tax-evasion-network-mapping)
+
 **Columns:** firm_id, gstin, registration_state, filing_regularity_pct, input_tax_claimed_lakhs, output_tax_paid_lakhs, itc_ratio, turnover_declared_cr, industry, related_firms, e_waybill_mismatches, director_common_count, fraud_score, flagged
 
 **Rows:** 15

@@ -1,5 +1,8 @@
 # Dataset: Counterfeit Currency Network Analysis
 
+**Case Studies using this dataset:**
+- [Counterfeit Currency Network Analysis](https://aplly.xyz/case-studies/counterfeit-currency-network-analysis)
+
 **Columns:** seizure_id, date, location, denomination, notes_count, total_face_value_rs, quality_score, serial_number_pattern, paper_composition, print_method_detected, origin_country, distribution_network_size, arrests_made, linked_seizures, operation_name
 
 **Rows:** 13

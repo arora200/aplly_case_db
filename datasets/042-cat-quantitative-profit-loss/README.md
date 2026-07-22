@@ -1,5 +1,8 @@
 # Dataset: CAT Quantitative — Profit & Loss Analysis
 
+**Case Studies using this dataset:**
+- [CAT Quantitative: Profit & Loss Analysis](https://aplly.xyz/case-studies/cat-profit-loss)
+
 **Columns:** company, revenue_cr, cogs_pct, operating_expense_pct, tax_rate_pct, shares_cr, market_price, dividend_pct, debt_cr, interest_pct
 
 **Rows:** 10

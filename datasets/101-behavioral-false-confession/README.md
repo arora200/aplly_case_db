@@ -1,5 +1,8 @@
 # Dataset: False Confession Analysis in Interrogation
 
+**Case Studies using this dataset:**
+- [False Confession Analysis in Interrogation](https://aplly.xyz/case-studies/false-confession-analysis-interrogation)
+
 **Columns:** case_id, suspect_age, suspect_iq, interrogation_duration_hours, interrogators_present, sleep_deprivation_hours, food_water_provided, recording_type, parent_lawyer_present, evidence_shown, threats_alleged, promises_made, contradictory_forensics, confession_recanted, coerced_finding
 
 **Rows:** 12

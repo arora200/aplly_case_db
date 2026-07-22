@@ -1,5 +1,8 @@
 # Dataset: Stalking Behavior Pattern Analysis
 
+**Case Studies using this dataset:**
+- [Stalking Behavior Pattern Analysis](https://aplly.xyz/case-studies/stalking-behavior-pattern-analysis)
+
 **Columns:** case_id, victim_age, stalker_age, relationship_prior, duration_months, approach_frequency_per_week, communication_modes, physical_approaches, property_damage_incidents, threats_made, restraining_order_filed, violations_of_order, escalation_observed, weapon_involved, police_involvement_count
 
 **Rows:** 12

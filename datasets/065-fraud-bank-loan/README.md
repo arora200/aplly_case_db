@@ -1,5 +1,8 @@
 # Dataset: Bank Loan Fraud Pattern Analysis
 
+**Case Studies using this dataset:**
+- [Bank Loan Fraud Pattern Analysis](https://aplly.xyz/case-studies/bank-loan-fraud-pattern-analysis)
+
 **Columns:** application_id, loan_type, loan_amount_lakhs, income_lakhs, credit_score, employment_type, employer_verified, discrepancy_count, fraud_indicators, status, fraud_flagged
 
 **Rows:** 15

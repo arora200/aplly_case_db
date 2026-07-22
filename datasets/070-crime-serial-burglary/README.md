@@ -1,5 +1,8 @@
 # Dataset: Serial Burglary Pattern Analysis
 
+**Case Studies using this dataset:**
+- [Serial Burglary Pattern Analysis](https://aplly.xyz/case-studies/serial-burglary-pattern-analysis)
+
 **Columns:** incident_id, date, time, location, area_type, entry_method, items_stolen, estimated_loss_rs, day_of_week, distance_from_previous_km, mo_signature, cctv_available, witness_present, suspect_description, linked_incidents
 
 **Rows:** 15

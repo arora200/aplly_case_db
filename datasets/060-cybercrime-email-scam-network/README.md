@@ -1,5 +1,8 @@
 # Dataset: Nigerian Prince Email Scam Network Analysis
 
+**Case Studies using this dataset:**
+- [Nigerian Prince Email Scam Network Analysis](https://aplly.xyz/case-studies/nigerian-prince-email-scam-network-analysis)
+
 **Columns:** email_id, sender_ip, sender_country, recipient_domain, amount_requested_usd, urgency_level, grammar_errors, reply_rate, bank_mentioned, attachment_count, link_count, scam_type, blocked
 
 **Rows:** 15

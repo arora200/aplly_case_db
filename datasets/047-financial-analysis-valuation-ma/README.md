@@ -1,5 +1,9 @@
 # Dataset: Financial Analysis — Startup Valuation & M&A
 
+**Case Studies using this dataset:**
+- [Startup Valuation Case: Tech Unicorn](https://aplly.xyz/case-studies/startup-valuation-unicorn)
+- [Financial Analysis: Merger & Acquisition](https://aplly.xyz/case-studies/financial-ma-analysis)
+
 **Columns:** company, sector, revenue_cr, revenue_growth_pct, ebitda_margin_pct, net_income_cr, total_assets_cr, total_debt_cr, pe_ratio, projected_growth_pct, comparable_deal_value_cr, synergy_estimate_cr
 
 **Rows:** 10

@@ -1,5 +1,8 @@
 # Dataset: Check Forgery Ring Investigation
 
+**Case Studies using this dataset:**
+- [Check Forgery Ring Investigation](https://aplly.xyz/case-studies/check-forgery-ring-investigation)
+
 **Columns:** check_id, bank, branch, amount_rs, date, payee_name, signature_match_score, micr_anomaly, routing_number_valid, endorsement_anomaly, alteration_detected, security_feature_present, camera_captured, account_balance_valid, linked_checks, ring_member_id
 
 **Rows:** 13

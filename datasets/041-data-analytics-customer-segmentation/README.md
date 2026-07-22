@@ -1,5 +1,8 @@
 # Dataset: Data Analytics — Customer Segmentation
 
+**Case Studies using this dataset:**
+- [Data Analytics: Customer Segmentation](https://aplly.xyz/case-studies/data-analytics-customer-segmentation)
+
 **Columns:** customer_id, age_group, annual_income_lakhs, annual_spend_lakhs, purchase_frequency, avg_ticket_size, product_category, channel, tenure_months, return_rate_pct, loyalty_score
 
 **Rows:** 50

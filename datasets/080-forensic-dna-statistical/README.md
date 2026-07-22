@@ -1,5 +1,8 @@
 # Dataset: DNA Evidence Statistical Analysis in Criminal Case
 
+**Case Studies using this dataset:**
+- [DNA Evidence Statistical Analysis in Criminal Case](https://aplly.xyz/case-studies/dna-evidence-statistical-analysis-criminal-case)
+
 **Columns:** evidence_id, sample_type, collection_location, collection_date, locus_tested, allele_1, allele_2, population_frequency, random_match_probability, likelihood_ratio, combined_pi, mixture_components, degradation_level, reference_sample_match, expert_conclusion
 
 **Rows:** 15

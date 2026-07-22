@@ -1,5 +1,8 @@
 # Dataset: Date Rape Drug Case Analysis
 
+**Case Studies using this dataset:**
+- [Date Rape Drug Case Analysis](https://aplly.xyz/case-studies/date-rape-drug-case-analysis)
+
 **Columns:** case_id, victim_age, incident_location, incident_type, suspected_substance, detected_in_system, detection_window_hrs, time_to_test_hrs, consent_able, witness_present, cctv_available, forensic_collection_done, suspect_known, medical_exam_done, police_report_filed
 
 **Rows:** 14
