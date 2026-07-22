@@ -1,0 +1,7 @@
+Rule,Value
+Base Commission,3% of total monthly revenue
+High-Margin Mix Bonus (≥40% high-margin),1.5x multiplier
+Medium-Margin Mix Bonus (≥25% but <40%),1.25x multiplier
+Low-Margin Mix Bonus (<25%),1.0x multiplier
+Monthly Commission Cap,"₹2,00,000"
+Comparison Baseline,Flat 4% commission

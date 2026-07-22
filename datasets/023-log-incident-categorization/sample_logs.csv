@@ -1,0 +1,16 @@
+ID,Timestamp,Log Level,Source,Message
+L01,09:15:22,ERROR,auth-service,Auth fail for user admin: invalid token
+L02,09:17:05,WARN,api-gateway,Rate limit approaching for client 10.0.1.50
+L03,09:22:01,CRITICAL,db-primary,Connection pool exhausted — connections: 198/200
+L04,09:30:44,ERROR,web-server,File not found: /etc/nginx/ssl/cert.pem
+L05,09:35:12,CRITICAL,payment-svc,Health check fail on endpoint /health — 502 Bad Gateway
+L06,09:41:30,WARN,cache-cluster,Memory usage 85% — threshold 80%
+L07,09:48:15,ERROR,auth-service,Null reference on user session deserialization
+L08,09:52:03,CRITICAL,web-server,Service unreachable from load balancer — 503
+L09,09:58:44,WARN,api-gateway,SSL certificate will expire in 7 days
+L10,10:05:22,ERROR,order-svc,Business logic violation: negative quantity (-2)
+L11,10:12:01,CRITICAL,db-primary,Connection refused on replica 10.0.2.15:3306
+L12,10:18:33,WARN,web-server,CPU temperature 78°C — warning threshold 75°C
+L13,10:25:10,ERROR,search-svc,Missing env variable: ELASTICSEARCH_URL
+L14,10:30:45,CRITICAL,payment-svc,Fraud detection service timeout (>30s)
+L15,10:35:22,ERROR,user-svc,Invalid parameter: age = -5 in create_user

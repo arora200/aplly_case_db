@@ -1,0 +1,5 @@
+Component,Max Pts,Rule
+Diversity,30,Count food groups eaten (0-10) × 3
+Sufficiency,25,"Min((fruit servings + veg servings) × 5, 25)"
+Moderation,25,"Start 25, −5 per discretionary serving, floor 0; zero if >5 discretionary"
+Regularity,20,"7 per meal eaten (max 3 meals = 21, capped at 20)"

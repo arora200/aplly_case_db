@@ -1,0 +1,4 @@
+Constraint,Value
+Schedule Horizon (weeks),12
+Max Consecutive On-Call Weeks,1
+Part-time Max (of 12 weeks),6

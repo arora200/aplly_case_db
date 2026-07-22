@@ -1,0 +1,7 @@
+Constraint,Value
+Read/Write Ratio,~50:1
+Data Change Frequency,2-4 times/hour
+Hot Items Updated (%),5
+Budget Ceiling ($/mo),1500
+Staleness Tolerance (min),2
+Staleness Coverage (%),95

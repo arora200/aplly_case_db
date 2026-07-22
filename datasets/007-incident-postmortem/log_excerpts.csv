@@ -1,0 +1,11 @@
+Timestamp,Level,Source,Message
+09:58:12,INFO,web-server,Request served: GET /api/orders — 200 OK
+10:00:03,WARN,api-gateway,Response time 3200ms — threshold 2000ms
+10:02:15,ERROR,payment-svc,Timeout connecting to payment processor
+10:05:00,CRITICAL,db-primary,Connection pool exhaustion — active: 200/200
+— GAP —,,,10:05 to 10:20 — no logs recorded
+10:20:01,INFO,web-server,Health check endpoint returning 200
+10:25:33,ERROR,payment-svc,Retry queue depth: 1500 messages
+10:30:12,CRITICAL,db-primary,Replica lag: 45 seconds
+10:35:44,WARN,api-gateway,Circuit breaker opened for payment-svc
+10:40:02,INFO,deploy-svc,Rollback initiated — build #4471

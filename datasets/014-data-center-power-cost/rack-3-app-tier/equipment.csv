@@ -1,0 +1,7 @@
+Device ID,Role,Rated Wattage,Utilization %
+APP-01,App Server,350,55
+APP-02,App Server,350,60
+APP-03,App Server,350,50
+APP-04,App Server,350,45
+SW-02,Top-of-Rack Switch,150,80
+FW-01,Firewall Appliance,250,40

@@ -1,0 +1,4 @@
+Metric,Value
+p50 Latency (ms),180
+p95 Latency (ms),450
+p99 Latency (ms),900

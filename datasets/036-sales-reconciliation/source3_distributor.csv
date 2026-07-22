@@ -1,0 +1,5 @@
+Record ID,Date,Distributor,Invoice Ref,Amount (₹),Paid
+DIST-01,14-Sep,TechDistrib Co.,INV-9012,45000,Yes
+DIST-02,15-Sep,HomeGoods Distributors,INV-9015,32000,Yes
+DIST-03,17-Sep,TechDistrib Co.,INV-9018,28000,No
+DIST-04,17-Sep,MegaMart Wholesale,INV-9020,15000,No

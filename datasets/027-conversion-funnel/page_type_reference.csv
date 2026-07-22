@@ -1,0 +1,8 @@
+Page URL Pattern,Type
+"/, /home, /index",Homepage
+"/products/*, /category/*",Product page
+"/cart, /bag",Cart page
+"/checkout*, /payment*",Checkout page
+/order/confirm*,Order confirmation page
+"/blog/*, /about, /contact",Non-product page
+/search?q=*,Search results page

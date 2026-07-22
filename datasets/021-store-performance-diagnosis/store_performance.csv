@@ -1,0 +1,9 @@
+Store,Location Type,Size (sq ft),Monthly Revenue (₹L),Profit Margin (%),Customer Satisfaction (%),Revenue per Sq Ft (₹),Employee Retention (%)
+A,Mall,2500,45,15,88,180,75
+B,High Street,1800,38,12,82,211,65
+C,Small Town,1200,52,18,92,433,90
+D,Mall,3000,55,10,75,183,55
+E,High Street,1500,48,20,90,320,85
+F,Small Town,900,42,22,95,467,95
+G,Mall,2200,35,8,70,159,50
+H,High Street,1600,40,14,80,250,70

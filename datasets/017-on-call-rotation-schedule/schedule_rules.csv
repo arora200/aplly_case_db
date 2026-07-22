@@ -1,0 +1,7 @@
+Rule,Type
+Exactly 1 primary + 1 secondary per day,Hard
+No consecutive primary days,Hard
+At least 1 day zero duty per week,Hard
+Primary/secondary counts per week differ by ≤1,Hard
+Weekend primary rotates (max 1 per 5-week cycle),Hard
+Ideal per-person share: 5.6 assignments,Target
