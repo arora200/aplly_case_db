@@ -1,4 +1,14 @@
+# Non-dataset content — this repo is datasets only
+scripts/
+.github/
+shared/
+templates/
+CONTRIBUTING.md
+
+# Python
 __pycache__/
 *.pyc
+
+# OS
 .DS_Store
 Thumbs.db
