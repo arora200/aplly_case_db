@@ -1,0 +1,14 @@
+event_id,timestamp,event_type,location,person_involved,role,evidence_item,forensic_finding,witness_statement,investigator_note,timeline_confidence,linked_to_case
+Under investigation,Yes,Detected,High,Inconclusive,Closed,0,Compromised,WIT-0126-001,2026-04-15,85,Rural
+12.5,2026-04-01,Resolved,3.5,Inactive,Compromised,Confirmed,FOR-0126-002,25000,Chennai,2026-04-01,Compromised
+No,Arrested,85,No,12.5,ROL-0126-003,1,At large,WIT-0126-003,100000,Inactive,Chennai
+Filed,Rural,2026-03-15,No,PER-0126-004,Filed,Urban,2026-04-01,Resolved,INV-0126-004,Inconclusive,Under investigation
+Confirmed,Negative,False,25000,2026-04-01,Under investigation,True,FOR-0126-005,Yes,1,Compromised,Active
+EVE-0126-006,TIM-0126-006,Arrested,Delhi,Inconclusive,Detected,2026-04-01,Unresolved,Inconclusive,INV-0126-006,Confirmed,High
+EVE-0126-007,42,2026-04-15,Not detected,,Mumbai,At large,Not detected,WIT-0126-007,INV-0126-007,Mumbai,12.5
+Arrested,Low,Medium,Secure,Active,2026-04-15,1,3.5,WIT-0126-008,Active,Bangalore,Rural
+Yes,Delhi,Bangalore,Bangalore,N/A,High,EVI-0126-009,Under investigation,Mumbai,Active,Arrested,Not detected
+25000,Resolved,Filed,100000,No,Negative,,Under investigation,12.5,Bangalore,Rural,LIN-0126-010
+N/A,Unresolved,EVE-0126-011,LOC-0126-011,PER-0126-011,Inactive,N/A,2026-03-15,Under investigation,Closed,Compromised,LIN-0126-011
+2026-03-15,Yes,Negative,LOC-0126-012,Arrested,Urban,,25000,85,,85,LIN-0126-012
+Kolkata,2026-04-15,Closed,At large,Dropped,N/A,Inactive,100000,WIT-0126-013,Resolved,TIM-0126-013,42

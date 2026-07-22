@@ -1,0 +1,16 @@
+case_id,platform_name,scheme_type,investors_count,total_lost_usd,promised_return_pct,duration_months,promoter_location,promoter_arrested,recovery_pct,countries_involved,exchanges_used
+CF001,CryptoKing,Ponzi,25000,45000000,15,18,Dubai,True,8,4,"Binance, KuCoin"
+CF002,BitYield,High-yield pool,8500,12500000,22,8,Thailand,True,5,3,"Binance, Coinbase"
+CF003,CloudHash Pro,Cloud mining,12000,32000000,35,24,Singapore,True,12,5,"Huobi, OKX"
+CF004,NFT Royalty Club,NFT pool,3200,8500000,50,6,India,False,0,2,"WazirX, CoinDCX"
+CF005,TradeBot AI,Trading bot,18000,28000000,28,14,UK,True,15,6,"Binance, Kraken"
+CF006,DeFi Matrix,DeFi pool,6500,18500000,40,10,Switzerland,False,3,4,"Uniswap, PancakeSwap"
+CF007,MetaCoin Global,MLM,42000,65000000,18,36,Malta,True,2,8,Multiple DEXs
+CF008,GreenHash Mining,Green mining,3500,5200000,12,15,Canada,True,20,3,Binance
+CF009,AI Arbitrage X,Arbitrage bot,9500,22500000,32,9,India,False,0,2,"WazirX, CoinDCX"
+CF010,P2P LendCoin,P2P lending,7800,14200000,25,12,Estonia,True,10,4,"Binance, Kraken"
+CF011,Staking Pro Max,Staking pool,2800,3800000,20,7,Malaysia,True,6,3,"Binance, Huobi"
+CF012,CoinAngel,Charity coin,15000,34000000,30,20,Belize,True,1,6,Multiple
+CF013,Quantum Trade 3000,Signal group,2200,4100000,55,4,India,False,0,1,Local exchanges
+CF014,CashCrypto,Trading platform,11000,19500000,25,16,Cyprus,True,8,4,"Binance, Coinbase"
+CF015,Orion DeFi,DeFi yield,4800,9200000,35,11,Seychelles,False,4,3,PancakeSwap

@@ -1,0 +1,16 @@
+case_id,student_age,grade,threat_type,target,method_described,weapon_access,manifesto_written,social_media_posts,peer_reported,prior_disciplinary,mental_health_history,bullying_victim,threat_credibility_score,intervention,outcome
+Under investigation,2026-04-01,No,12.5,Not detected,MET-0155-001,WEA-0155-001,42,100000,Unresolved,0,MEN-0155-001,Yes,0,Closed,2026-04-01
+Pending,STU-0155-002,Unresolved,12.5,Under investigation,Secure,Resolved,True,Chennai,2026-04-01,Closed,2026-04-01,False,False,Chennai,2026-04-15
+Bangalore,Resolved,Bangalore,Low,No,MET-0155-003,Pending,MAN-0155-003,Chennai,Closed,Bangalore,Low,Medium,Secure,Secure,0
+Compromised,Negative,Closed,,TAR-0155-004,Rural,2026-04-01,Medium,Chennai,Confirmed,Inactive,Inconclusive,0,Rural,Unresolved,OUT-0155-004
+CAS-0155-005,Under investigation,GRA-0155-005,Detected,100000,N/A,Inconclusive,Secure,Confirmed,25000,Confirmed,Inactive,Arrested,Closed,Inactive,OUT-0155-005
+Resolved,Confirmed,Negative,THR-0155-006,Resolved,1,Rural,Confirmed,Yes,1,1,MEN-0155-006,Bangalore,100000,Pending,Chennai
+Delhi,2026-04-01,Detected,THR-0155-007,12.5,3.5,Yes,Secure,12.5,2026-04-01,Urban,Unresolved,Kolkata,Under investigation,INT-0155-007,Dropped
+No,0,Yes,Resolved,TAR-0155-008,At large,2026-04-15,Not detected,True,100000,Yes,Active,25000,85,42,Dropped
+Unresolved,12.5,0,THR-0155-009,Kolkata,High,WEA-0155-009,At large,3.5,Active,PRI-0155-009,Active,12.5,,INT-0155-009,Bangalore
+CAS-0155-010,Unresolved,Arrested,Inconclusive,TAR-0155-010,Under investigation,Chennai,Secure,Detected,PEE-0155-010,Filed,True,12.5,Delhi,Low,High
+Yes,Resolved,GRA-0155-011,True,Positive,3.5,Filed,Detected,Negative,PEE-0155-011,Inconclusive,Arrested,100000,85,Detected,Secure
+Dropped,STU-0155-012,2026-04-15,Mumbai,Kolkata,MET-0155-012,85,Detected,At large,Confirmed,PRI-0155-012,MEN-0155-012,100000,Closed,Active,Active
+25000,100000,GRA-0155-013,Compromised,TAR-0155-013,True,12.5,True,Kolkata,PEE-0155-013,Yes,Urban,Bangalore,Confirmed,Bangalore,85
+Chennai,2026-04-15,Detected,High,42,3.5,Active,MAN-0155-014,SOC-0155-014,Urban,12.5,Kolkata,100000,THR-0155-014,1,OUT-0155-014
+25000,Compromised,High,Medium,12.5,85,No,Kolkata,0,Closed,PRI-0155-015,False,Low,At large,Kolkata,Mumbai

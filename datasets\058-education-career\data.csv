@@ -1,0 +1,11 @@
+institution,program,duration_months,total_fee_lakhs,avg_package_lakhs,placement_pct,roi_score,accreditation,entrance_exam,faculty_student_ratio,rank_nirf
+IIMA,PGP,24,35,34.2,98,9.5,AACSB,CAT,6:1,1
+IIMB,PGP,24,33,32.5,97,9.2,AACSB,CAT,6:1,2
+IIMC,PGP,24,31,30.8,96,9,AACSB,CAT,7:1,3
+XLRI,BM,24,28,28.5,97,8.8,AACSB,XAT,7:1,6
+FMS,MBA,24,2.5,27,96,9.5,NBA,CAT,8:1,4
+SPJIMR,PGDM,24,27,26.5,95,8.5,AACSB,CAT,8:1,9
+MDI,PGPM,24,25,25.2,94,8.3,AACSB,CAT,9:1,10
+ISB,PGP,12,42,35,99,9,AACSB,GMAT,5:1,5
+IIT Delhi,MBA,24,16,22.5,92,8,NBA,CAT,8:1,15
+UpGrad,Online MBA,24,2.5,8.5,72,5.5,UGC,None,15:1,999

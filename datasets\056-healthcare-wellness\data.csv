@@ -1,0 +1,11 @@
+provider,service_type,consultation_fee_rs,rating_1to5,avg_wait_days,patient_satisfaction_pct,network_doctors,online_prescription,lab_test_home_collection
+Apollo Health,Telemedicine,599,4.5,1,92,45000,True,True
+Practo,Telemedicine,499,4.2,1,88,60000,True,True
+1mg,Pharmacy,0,4.3,2,85,30000,True,True
+PharmEasy,Pharmacy,0,4,2,82,25000,True,True
+HealthifyMe,Fitness,999,4.3,0,85,8000,False,False
+Cult.fit,Fitness,1499,4.4,1,88,12000,False,False
+Tata Health,Mental Health,750,4.2,2,84,3500,True,False
+YourDOST,Mental Health,500,4,1,80,2000,True,False
+Dr. Lal PathLabs,Diagnostic,0,4.4,1,90,0,False,True
+MFine,Multi-service,549,4.1,1,83,35000,True,True

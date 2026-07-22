@@ -1,0 +1,15 @@
+sample_id,evidence_type,collection_timestamp,analysis_timestamp,storage_condition,temperature_celsius,humidity_pct,days_stored,dna_quantity_ng,dna_quality_score,degradation_index,amplification_success,allelic_dropout_pct,recommendation
+SAM-0136-001,Unresolved,Detected,ANA-0136-001,Inactive,2026-03-15,0,DAY-0136-001,Compromised,DNA-0136-001,42,2026-04-15,ALL-0136-001,Urban
+Medium,Pending,Inconclusive,0,STO-0136-002,100000,HUM-0136-002,Unresolved,No,Closed,Chennai,Detected,Mumbai,3.5
+Dropped,Compromised,Yes,42,N/A,Unresolved,Detected,Negative,,Secure,High,AMP-0136-003,ALL-0136-003,Filed
+N/A,Negative,Negative,Kolkata,Filed,Unresolved,HUM-0136-004,DAY-0136-004,0,Rural,42,Delhi,1,Yes
+SAM-0136-005,Kolkata,Filed,Delhi,25000,Medium,Secure,Active,Under investigation,Detected,Positive,Medium,Arrested,Under investigation
+25000,3.5,COL-0136-006,Detected,STO-0136-006,3.5,Filed,Delhi,Not detected,Medium,DEG-0136-006,Not detected,ALL-0136-006,False
+0,25000,Under investigation,Inactive,No,42,Compromised,Rural,1,Yes,Compromised,Medium,Inconclusive,Low
+Delhi,Negative,1,85,Urban,Bangalore,True,Closed,Confirmed,Urban,2026-04-01,Resolved,2026-04-01,Detected
+Delhi,EVI-0136-009,3.5,ANA-0136-009,STO-0136-009,Under investigation,100000,Confirmed,Low,N/A,N/A,1,Filed,Negative
+85,Not detected,Bangalore,ANA-0136-010,,Closed,Delhi,Secure,2026-04-01,Rural,1,Unresolved,Not detected,REC-0136-010
+25000,Arrested,Urban,Chennai,STO-0136-011,TEM-0136-011,Delhi,2026-04-01,Unresolved,Closed,Delhi,Active,42,2026-03-15
+3.5,,Rural,True,2026-04-15,Compromised,Delhi,DAY-0136-012,12.5,N/A,DEG-0136-012,85,2026-04-15,2026-03-15
+Arrested,85,Secure,Bangalore,2026-04-15,Negative,HUM-0136-013,DAY-0136-013,DNA-0136-013,DNA-0136-013,DEG-0136-013,Medium,ALL-0136-013,Mumbai
+SAM-0136-014,Resolved,High,Filed,High,Inactive,HUM-0136-014,2026-04-01,Kolkata,25000,12.5,Active,0,Inconclusive

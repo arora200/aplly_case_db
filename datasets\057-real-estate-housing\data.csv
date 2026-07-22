@@ -1,0 +1,11 @@
+project,builder,location,price_per_sqft_rs,carpet_area_sqft,bedrooms,possession_status,rera_registered,amenities_score,price_cr,near_metro_km
+Palm Grove,Godrej Properties,Mumbai,28500,850,3,Ready,True,8,2.42,0.5
+Lavender Fields,Lodha,Mumbai,32000,650,2,Ready,True,9,2.08,1.2
+Sanskriti,DLF,Gurgaon,12500,1200,3,Ready,True,7,1.5,2.5
+The Iconic,Prestige Group,Bangalore,11500,950,3,Ready,True,8,1.09,1
+Emerald Isle,Brigade Group,Chennai,8500,1050,3,Ready,True,7,0.89,3
+Riverdale,Tata Housing,Pune,9800,780,2,Ready,True,8,0.76,2
+Green Valley,Mantri,Hyderabad,7500,1350,3,Ready,True,6,1.01,4
+Puri Tower,Puri Constructions,Kolkata,5500,1000,3,Ready,True,5,0.55,2
+Neopolis,Hiranandani,Chennai,7800,1250,3,Ready,True,8,0.98,5
+Ashiana Nava,Ashiana Housing,Jaipur,4800,1100,3,Ready,True,6,0.53,6

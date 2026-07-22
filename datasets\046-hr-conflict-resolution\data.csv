@@ -1,0 +1,11 @@
+case_id,dept,conflict_type,severity,employees_involved,duration_days,escalation_level,mediation_attempts,hr_hrs_spent,productivity_loss_pct,resolution_status,satisfaction_score
+HR001,Engineering,Interpersonal,High,2,45,3,4,28,35,Resolved,6.5
+HR002,Sales,Performance,Medium,3,30,2,3,18,22,Resolved,7.2
+HR003,Marketing,Team dynamics,High,4,60,3,5,35,40,Ongoing,4.8
+HR004,Operations,Role ambiguity,Low,2,15,1,2,8,12,Resolved,8.5
+HR005,Finance,Resource allocation,Medium,3,25,2,2,14,18,Resolved,7.8
+HR006,Engineering,Technical disagreement,Low,2,10,1,1,5,8,Resolved,9
+HR007,HR,Policy enforcement,High,5,50,4,6,40,30,Escalated,3.5
+HR008,Sales,Target setting,Medium,3,20,2,3,12,15,Resolved,7
+HR009,Product,Strategy conflict,High,4,55,3,4,30,38,Ongoing,5.2
+HR010,Support,Process compliance,Low,2,12,1,1,6,10,Resolved,8.2

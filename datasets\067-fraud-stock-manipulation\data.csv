@@ -1,0 +1,16 @@
+trade_id,date,stock_symbol,volume,trade_price_rs,buyer_id,seller_id,trade_type,circuit_filter_hit,price_change_pct,related_group,off_market_trades,pattern_type,insider_trading_flag,sebi_investigation
+T001,2026-01-15,ABC LTD,2500000,45.5,B001,S001,Block,True,12.5,G1,False,Pump & dump,True,True
+T002,2026-01-15,ABC LTD,3200000,48.2,B002,S002,Block,True,15.8,G1,False,Pump & dump,True,True
+T003,2026-01-16,ABC LTD,1800000,52,B001,S003,Market,False,7.9,G1,False,Pump & dump,False,True
+T004,2026-01-17,ABC LTD,500000,28.5,M001,B001,Market,True,-45.2,G1,False,Dump,False,True
+T005,2026-01-10,XYZ CORP,450000,1200,B003,S004,Market,False,2.1,None,False,None,False,False
+T006,2026-01-12,PENNY STK,5000000,2.5,G1_M1,G1_M2,Cross,True,25,G1,True,Circular trading,True,True
+T007,2026-01-12,PENNY STK,3500000,3.1,G1_M2,G1_M3,Cross,True,24,G1,True,Circular trading,True,True
+T008,2026-01-12,PENNY STK,4200000,3.5,G1_M3,G1_M1,Cross,True,12.9,G1,True,Circular trading,True,True
+T009,2026-01-14,PENNY STK,200000,1.2,R001,G1_M1,Market,True,-65.7,G1,False,Dump on retail,False,True
+T010,2026-02-01,MID CAP,150000,880,B004,S005,Market,False,1.5,None,False,None,False,False
+T011,2026-02-05,SML CAP,800000,125,G2_M1,G2_M2,Cross,True,20,G2,True,Matched orders,True,True
+T012,2026-02-05,SML CAP,750000,130,G2_M2,G2_M3,Cross,True,4,G2,True,Matched orders,True,True
+T013,2026-02-06,SML CAP,600000,150,G2_M1,R002,Market,True,15.4,G2,False,Pump & dump,False,True
+T014,2026-02-07,SML CAP,250000,45,R003,G2_M3,Market,True,-70,G2,False,Dump,False,True
+T015,2026-02-20,LARGE CAP,20000,2550,B005,S006,Market,False,0.8,None,False,None,False,False

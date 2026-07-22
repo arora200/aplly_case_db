@@ -1,0 +1,15 @@
+document_id,document_type,property_value_rs,registrar_office,registration_date,signature_anomalies,seal_anomalies,paper_age_mismatch,ink_analysis_result,digital_signature_valid,witness_signatures,land_record_match,encumbrance_check,reported_as_fake,forgery_technique
+DOC-0142-001,Inactive,Filed,,Low,Urban,Kolkata,2026-04-01,Detected,2026-04-15,42,Rural,Inconclusive,Active,Yes
+Low,False,Unresolved,Chennai,Bangalore,Filed,Detected,Under investigation,Secure,Secure,Pending,Secure,12.5,Rural,25000
+DOC-0142-003,Yes,100000,2026-04-15,Closed,Secure,2026-03-15,,Detected,Not detected,0,LAN-0142-003,Urban,85,FOR-0142-003
+Dropped,42,Medium,Arrested,Chennai,No,True,Rural,2026-04-15,Confirmed,,1,Negative,Pending,2026-04-15
+DOC-0142-005,Rural,High,Confirmed,85,SIG-0142-005,Kolkata,Inconclusive,Bangalore,Negative,Filed,Mumbai,Yes,Medium,Closed
+Mumbai,DOC-0142-006,Mumbai,2026-04-15,1,Low,Yes,PAP-0142-006,INK-0142-006,Positive,0,2026-03-15,Secure,Compromised,Medium
+Confirmed,Bangalore,1,REG-0142-007,Delhi,SIG-0142-007,2026-04-15,False,At large,,12.5,LAN-0142-007,ENC-0142-007,0,Delhi
+DOC-0142-008,Delhi,Not detected,Filed,Closed,Delhi,SEA-0142-008,At large,Filed,Active,False,Filed,Unresolved,False,No
+Confirmed,DOC-0142-009,25000,Bangalore,Rural,12.5,42,2026-04-15,2026-03-15,No,Secure,Filed,Inactive,True,100000
+DOC-0142-010,Not detected,Negative,3.5,Inconclusive,,85,Kolkata,True,85,High,Inactive,Filed,At large,Chennai
+2026-03-15,Mumbai,PRO-0142-011,100000,High,Medium,SEA-0142-011,Filed,Closed,DIG-0142-011,No,Delhi,2026-04-15,Dropped,False
+Under investigation,42,1,Under investigation,N/A,Arrested,Rural,Dropped,3.5,Kolkata,Under investigation,LAN-0142-012,Negative,Confirmed,FOR-0142-012
+Confirmed,Not detected,PRO-0142-013,2026-04-15,Delhi,Low,Pending,Rural,2026-04-01,DIG-0142-013,WIT-0142-013,N/A,Positive,Chennai,Medium
+Dropped,0,2026-03-15,Mumbai,Delhi,3.5,Low,Negative,2026-04-01,12.5,No,Secure,ENC-0142-014,REP-0142-014,High

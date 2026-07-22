@@ -1,0 +1,13 @@
+brand,model,type,battery_kwh,range_km,price_lakhs,charging_time_mins,motor_power_watts,top_speed_kmph,warranty_battery_years,fame_subsidy_lakhs,safety_rating
+Tata,Nexon EV LR,Passenger EV,40.5,465,16.5,56,127,150,8,1.5,4-star
+Tata,Tiago EV,Passenger EV,24,315,8.7,57,74,120,8,1.3,4-star
+MG,ZS EV,Passenger EV,44.5,461,23.5,50,176,175,8,0,5-star
+MG,Comet EV,Passenger EV,17.3,230,7.98,52,50,100,8,0,2-star
+Hyundai,Kona Electric,Passenger EV,39.2,452,24.6,57,136,165,8,0,5-star
+BYD,Atto 3,Passenger EV,49.9,521,28.9,54,150,160,8,0,5-star
+Ola,S1 Pro,Two-wheeler,3.97,181,1.47,78,8500,116,3,0.5,N/A
+Ather,450X Gen 3,Two-wheeler,3.7,146,1.48,72,9000,105,3,0.5,N/A
+Bajaj,Chetak Urbane,Two-wheeler,3,113,1.15,65,4080,70,3,0.4,N/A
+TVS,iQube S,Two-wheeler,3.4,145,1.32,60,8000,100,3,0.4,N/A
+Mahindra,Treo Zor,Three-wheeler,7.2,130,2.6,175,3000,50,2,0.8,N/A
+Olectra,E9 Electric Bus,Bus,320,300,105,180,350000,75,8,0,N/A

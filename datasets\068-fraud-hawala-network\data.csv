@@ -1,0 +1,16 @@
+transaction_id,date,sender_name,sender_location,receiver_name,receiver_location,amount_rs,currency,intermediary_count,route,purpose_stated,bank_involved,layer_number,flagged_pattern,investigation_status
+H001,2026-01-10,Rajesh K.,Delhi,Ahmed M.,Dubai,2500000,INR/USD,3,Delhi-Dubai-Mumbai,Trade payment,True,1,Structured deposits,Under investigation
+H002,2026-01-12,Priya S.,Mumbai,Hassan R.,Sharjah,1800000,INR/USD,2,Mumbai-Sharjah-Delhi,Family remittance,True,1,Rapid round-tripping,Active case
+H003,2026-01-15,Vikram P.,Chennai,Omar K.,Kuala Lumpur,3200000,INR/MYR,4,Chennai-Singapore-KL-Mumbai,Export payment,False,2,Multiple beneficiaries,Active case
+H004,2026-01-18,Anita G.,Kolkata,Faisal A.,Dhaka,950000,INR/BDT,2,Kolkata-Dhaka-Delhi,Medical treatment,False,1,None,Closed - legitimate
+H005,2026-01-20,Sunil J.,Jaipur,Abdullah Z.,Riyadh,4200000,INR/SAR,5,Jaipur-Dubai-Riyadh-Mumbai-Delhi,Real estate investment,True,3,Layering detected,Active case
+H006,2026-02-01,Deepak M.,Mumbai,Karim B.,Istanbul,2800000,INR/TRY,3,Mumbai-Istanbul-Dubai,Gold trade,True,2,Trade-based ML,Under investigation
+H007,2026-02-05,Meena L.,Bangalore,Tariq H.,Muscat,1500000,INR/OMR,2,Bangalore-Muscat-Mumbai,Education fees,True,1,None,Closed - legitimate
+H008,2026-02-10,Rohit V.,Ahmedabad,Yusuf N.,London,5600000,INR/GBP,4,Ahmedabad-Dubai-London-Mumbai,Business investment,True,3,Shell company trail,Active case
+H009,2026-02-15,Kavita D.,Pune,Imran S.,Doha,1200000,INR/QAR,2,Pune-Doha-Mumbai,Medical expense,False,1,None,Closed - legitimate
+H010,2026-02-20,Manish T.,Surat,Bilal K.,Hong Kong,7800000,INR/HKD,6,Surat-Dubai-HK-Singapore-Mumbai,Diamond trade,True,4,Complex layering,Active case
+H011,2026-03-01,Sandeep R.,Delhi,Nasir W.,Kabul,3500000,INR/AFN,3,Delhi-Kabul-Dubai,Goods trade,True,2,High-risk corridor,Under investigation
+H012,2026-03-05,Pooja H.,Lucknow,Farid M.,Kathmandu,800000,INR/NPR,1,Lucknow-Kathmandu,Tourism,False,1,None,Closed
+H013,2026-03-10,Arun K.,Chandigarh,Jamil P.,Toronto,6200000,INR/CAD,5,Chandigarh-Delhi-London-Toronto-Mumbai,Property purchase,True,3,Cross-border layering,Active case
+H014,2026-03-15,Neha B.,Indore,Rashid A.,Colombo,1100000,INR/LKR,2,Indore-Colombo-Mumbai,Education,False,1,None,Closed - legitimate
+H015,2026-03-20,Gaurav S.,Nagpur,Zubair E.,Beijing,9000000,INR/CNY,7,Nagpur-Mumbai-Dubai-HK-Beijing-Singapore,Electronics import,True,5,"Trade-based ML, over-invoicing",Active case

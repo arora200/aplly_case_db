@@ -1,0 +1,14 @@
+product,category,expected_return_pct,risk_level,min_investment_rs,lock_in_years,tax_benefit,expense_ratio_pct,exit_load_pct,liquidity_score,suitable_for
+SBI BlueChip Fund,Mutual Fund,14.5,Moderate,500,0,LTCG after 1yr,1.12,1,8,Growth
+HDFC Top 100,Mutual Fund,13.8,Moderate,500,0,LTCG after 1yr,1.05,1,8,Growth
+Axis Midcap,Mutual Fund,16.2,High,500,0,LTCG after 1yr,1.35,1,7,Aggressive
+PPF,Fixed Income,7.1,Low,500,15,80C deduction,0,0,3,Conservative
+EPF,Fixed Income,8.25,Low,0,0,80C deduction,0,0,2,Salary-based
+NPS Tier 1,Pension,10.2,Moderate,1000,60,80C+80CCD,0.09,0,3,Retirement
+Sukanya Samriddhi,Fixed Income,8,Low,250,21,80C deduction,0,0,2,Girl child
+Gold ETF,Commodity,9.8,Moderate,1000,0,LTCG after 3yr,0.5,0,9,Diversification
+SGB,Gold,8.5,Low,1000,8,LTCG benefit,0,0,4,Saver
+FD (HDFC),Fixed Income,6.5,Low,10000,0,Interest taxable,0,0.5,10,Conservative
+Liquid Fund,Mutual Fund,5.8,Low,100,0,Interest taxable,0.18,0,10,Emergency fund
+ELSS Fund,Mutual Fund,14,Moderate,500,3,80C deduction,1.25,0,7,Tax saving
+RBI Bond,Fixed Income,7.8,Low,1000,7,Interest taxable,0,0,5,Risk-averse

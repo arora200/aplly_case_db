@@ -1,0 +1,11 @@
+company,revenue_cr,cogs_pct,operating_expense_pct,tax_rate_pct,shares_cr,market_price,dividend_pct,debt_cr,interest_pct
+Alpha Corp,1250,58,22,25,50,340,1.8,400,9.5
+Beta Industries,890,62,18,25,35,215,2.2,280,8.7
+Gamma Pharma,2100,45,30,20,80,520,0.9,650,7.2
+Delta Motors,3400,72,15,22,120,185,3.1,1200,10.8
+Epsilon Tech,780,35,40,18,60,890,0,150,6.5
+Zeta Retail,4500,68,20,25,200,95,2.5,1800,11.2
+Eta Construction,1600,55,25,22,40,420,1.5,900,9
+Theta Energy,5200,48,28,30,150,310,4.2,2500,8
+Iota FMCG,2800,52,24,25,90,275,3.8,700,9.2
+Kappa Mining,1900,60,20,28,55,195,2,1100,10.5

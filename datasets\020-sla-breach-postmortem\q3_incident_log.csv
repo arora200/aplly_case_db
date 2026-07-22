@@ -1,0 +1,5 @@
+ID,Date,Duration,System,Reported Cause,Evidence Level
+INC-01,2026-07-12,1h 45m,Payment Gateway,Database connection pool exhaustion,Confirmed
+INC-02,2026-08-05,35m,CDN,Origin server SSL cert expired,Confirmed
+INC-03,2026-08-22,2h 10m,Core API,Memory leak after deployment,Partial
+INC-04,2026-09-18,1h 00m,Search Service,Unknown — logs unavailable,Speculative

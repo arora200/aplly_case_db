@@ -1,0 +1,14 @@
+check_id,bank,branch,amount_rs,date,payee_name,signature_match_score,micr_anomaly,routing_number_valid,endorsement_anomaly,alteration_detected,security_feature_present,camera_captured,account_balance_valid,linked_checks,ring_member_id
+Inactive,25000,Filed,Confirmed,No,Bangalore,Not detected,Detected,True,At large,At large,12.5,,Confirmed,Positive,Closed
+3.5,Detected,Under investigation,Active,1,2026-04-15,0,Active,Under investigation,2026-04-01,Bangalore,Positive,Rural,Low,Filed,1
+Filed,High,Dropped,Yes,DAT-0143-003,,Filed,Pending,0,Compromised,Positive,85,2026-04-01,Unresolved,85,0
+42,Arrested,Compromised,Kolkata,Yes,Rural,Arrested,Chennai,12.5,Resolved,Compromised,True,Confirmed,ACC-0143-004,Secure,True
+CHE-0143-005,2026-04-15,BRA-0143-005,2026-04-15,Detected,3.5,SIG-0143-005,Mumbai,At large,True,Resolved,Yes,2026-04-01,0,High,100000
+Secure,High,1,N/A,Pending,2026-04-01,Active,MIC-0143-006,Filed,Arrested,Positive,Mumbai,Under investigation,Delhi,Yes,Arrested
+Compromised,Detected,Inconclusive,,High,Inconclusive,N/A,Arrested,Closed,END-0143-007,Low,Arrested,2026-03-15,Negative,Yes,Inactive
+Inactive,Arrested,BRA-0143-008,Delhi,Dropped,25000,0,Low,ROU-0143-008,Detected,Active,Resolved,Resolved,ACC-0143-008,25000,Active
+,Dropped,Urban,,Pending,3.5,Yes,No,Closed,Secure,25000,Dropped,0,Dropped,Under investigation,Kolkata
+CHE-0143-010,BAN-0143-010,BRA-0143-010,Unresolved,Delhi,PAY-0143-010,SIG-0143-010,Secure,Arrested,Compromised,Rural,SEC-0143-010,Dropped,Bangalore,High,Positive
+Bangalore,Kolkata,True,AMO-0143-011,1,Chennai,Kolkata,Mumbai,Inconclusive,Filed,Filed,Under investigation,Unresolved,N/A,100000,RIN-0143-011
+Dropped,Confirmed,Low,AMO-0143-012,Not detected,,Not detected,Urban,,Kolkata,Delhi,False,,0,42,12.5
+CHE-0143-013,2026-04-01,Not detected,2026-03-15,DAT-0143-013,PAY-0143-013,1,Arrested,Low,Inactive,At large,Pending,0,Urban,LIN-0143-013,RIN-0143-013

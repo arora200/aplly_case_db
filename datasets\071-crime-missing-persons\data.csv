@@ -1,0 +1,16 @@
+case_id,person_name,age,gender,last_seen_location,last_seen_date,time_missing_days,circumstance,suspected_area_km2,phone_last_ping,bank_activity_post,social_media_activity,persons_of_interest,status,linked_cases
+CAS-0123-001,100000,Low,Secure,True,12.5,Arrested,Inactive,Rural,Closed,Chennai,Active,Medium,STA-0123-001,No
+CAS-0123-002,Secure,AGE-0123-002,GEN-0123-002,LAS-0123-002,False,TIM-0123-002,2026-04-01,Closed,Arrested,Inconclusive,Active,PER-0123-002,Low,Chennai
+N/A,No,AGE-0123-003,Dropped,At large,Low,Active,CIR-0123-003,SUS-0123-003,Arrested,Low,Confirmed,Bangalore,Secure,Urban
+85,PER-0123-004,Kolkata,Bangalore,Mumbai,LAS-0123-004,2026-04-15,Secure,SUS-0123-004,PHO-0123-004,,3.5,Filed,Filed,Negative
+CAS-0123-005,False,Delhi,42,Inconclusive,LAS-0123-005,Positive,Active,Dropped,25000,Bangalore,Confirmed,Chennai,25000,Yes
+CAS-0123-006,PER-0123-006,Dropped,Secure,True,,Rural,Arrested,Resolved,No,Delhi,Delhi,No,Compromised,Closed
+Detected,PER-0123-007,Low,Unresolved,LAS-0123-007,Yes,TIM-0123-007,,Not detected,Kolkata,Delhi,,Compromised,Inactive,1
+Active,Filed,No,Filed,Detected,Negative,42,CIR-0123-008,N/A,Filed,Active,Not detected,3.5,25000,Urban
+Compromised,PER-0123-009,,Delhi,Rural,2026-04-15,TIM-0123-009,Detected,Under investigation,True,2026-03-15,SOC-0123-009,Closed,2026-04-01,12.5
+Unresolved,Inactive,AGE-0123-010,Low,Yes,100000,Positive,85,SUS-0123-010,2026-04-15,1,Under investigation,Detected,,True
+No,Medium,High,Under investigation,Unresolved,True,Medium,25000,Delhi,Positive,2026-04-15,85,Detected,Resolved,LIN-0123-011
+Chennai,Under investigation,Mumbai,Rural,N/A,Mumbai,High,CIR-0123-012,Closed,PHO-0123-012,BAN-0123-012,Not detected,False,Arrested,2026-04-15
+Positive,Resolved,Negative,Negative,Medium,2026-04-15,Inconclusive,High,Compromised,2026-03-15,Medium,Chennai,Kolkata,Closed,Positive
+12.5,Inactive,AGE-0123-014,N/A,LAS-0123-014,2026-04-01,Rural,85,Kolkata,PHO-0123-014,BAN-0123-014,1,Delhi,3.5,Confirmed
+0,0,AGE-0123-015,Dropped,Filed,Active,Filed,Active,SUS-0123-015,Unresolved,Chennai,Rural,PER-0123-015,Inactive,Inconclusive

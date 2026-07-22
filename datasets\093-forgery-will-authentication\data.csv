@@ -1,0 +1,14 @@
+document_id,testator_name,date_of_will,date_of_death,witness_count,witness_signature_verified,notary_seal_genuine,paper_vintage,ink_match_date,handwriting_analysis_result,digital_signature,beneficiary_pattern,previous_will_exists,suppressed_will_alleged,court_ruling
+Resolved,85,False,85,Medium,Arrested,Dropped,False,Yes,Low,N/A,Inactive,True,Low,3.5
+Active,Compromised,2026-04-01,Inactive,3.5,WIT-0145-002,Resolved,42,Arrested,100000,High,False,2026-04-01,Dropped,Compromised
+Inactive,Rural,42,Compromised,Confirmed,WIT-0145-003,Closed,2026-04-01,INK-0145-003,Detected,DIG-0145-003,2026-03-15,Confirmed,3.5,
+Chennai,Filed,Chennai,,WIT-0145-004,Resolved,25000,Filed,2026-04-01,Urban,DIG-0145-004,BEN-0145-004,PRE-0145-004,12.5,Inconclusive
+100000,Secure,Delhi,42,Unresolved,Inactive,High,3.5,,Unresolved,Active,BEN-0145-005,Positive,Delhi,Arrested
+At large,TES-0145-006,2026-03-15,Under investigation,2026-04-01,2026-03-15,NOT-0145-006,Positive,2026-03-15,Confirmed,DIG-0145-006,BEN-0145-006,Yes,Confirmed,Under investigation
+DOC-0145-007,Filed,Low,Kolkata,3.5,Bangalore,85,Kolkata,At large,No,Pending,BEN-0145-007,Confirmed,Secure,Under investigation
+No,Mumbai,1,Active,0,Delhi,No,Secure,Unresolved,HAN-0145-008,Resolved,True,Inconclusive,No,Yes
+DOC-0145-009,Bangalore,At large,High,Kolkata,WIT-0145-009,Rural,Active,Inconclusive,HAN-0145-009,High,At large,False,,COU-0145-009
+Low,3.5,True,Dropped,42,Urban,NOT-0145-010,0,INK-0145-010,100000,1,At large,Positive,High,2026-03-15
+25000,Unresolved,Delhi,DAT-0145-011,WIT-0145-011,N/A,Delhi,Resolved,INK-0145-011,0,Chennai,No,Compromised,No,Compromised
+Negative,At large,Delhi,85,WIT-0145-012,WIT-0145-012,Secure,High,Low,At large,True,True,False,Low,
+DOC-0145-013,Negative,DAT-0145-013,High,Confirmed,Compromised,Mumbai,3.5,Delhi,Urban,Inactive,Chennai,100000,2026-04-01,Resolved

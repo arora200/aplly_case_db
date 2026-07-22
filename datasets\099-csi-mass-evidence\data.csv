@@ -1,0 +1,14 @@
+evidence_id,type,location_grid,recovery_time,recovery_officer,photographed,bagged_tagged,chain_of_custody_steps,lab_received,analysis_status,storage_location,linked_to_victim,linked_to_suspect,priority_level,contamination_risk
+EVI-0151-001,,12.5,Arrested,Compromised,Negative,Not detected,True,Inactive,ANA-0151-001,High,LIN-0151-001,Closed,Rural,Inactive
+EVI-0151-002,Rural,Positive,Confirmed,3.5,2026-04-15,Secure,42,LAB-0151-002,ANA-0151-002,STO-0151-002,Mumbai,LIN-0151-002,Closed,3.5
+Closed,Rural,N/A,REC-0151-003,Chennai,PHO-0151-003,At large,Confirmed,Filed,2026-03-15,Inactive,Positive,Active,Confirmed,Low
+Pending,Inactive,LOC-0151-004,Arrested,REC-0151-004,Urban,At large,Secure,Active,ANA-0151-004,Mumbai,Bangalore,Pending,Unresolved,High
+1,Dropped,100000,Under investigation,Pending,Chennai,Kolkata,2026-04-01,Urban,,0,Filed,LIN-0151-005,Resolved,Confirmed
+Compromised,TYP-0151-006,2026-03-15,Active,REC-0151-006,False,Under investigation,CHA-0151-006,Not detected,Filed,,LIN-0151-006,Mumbai,Negative,Negative
+85,3.5,LOC-0151-007,Chennai,False,High,Not detected,85,LAB-0151-007,Delhi,Unresolved,Mumbai,Medium,PRI-0151-007,CON-0151-007
+EVI-0151-008,100000,Inactive,3.5,0,Confirmed,BAG-0151-008,Under investigation,Closed,2026-04-01,42,Secure,False,Active,Unresolved
+,Not detected,100000,High,REC-0151-009,Negative,42,,LAB-0151-009,3.5,Closed,Detected,Yes,Confirmed,Confirmed
+Confirmed,Active,LOC-0151-010,N/A,Not detected,PHO-0151-010,Chennai,Filed,2026-03-15,0,At large,Dropped,No,Dropped,Kolkata
+Medium,2026-03-15,Low,12.5,100000,Under investigation,Positive,Bangalore,1,Secure,STO-0151-011,Dropped,Filed,Not detected,Unresolved
+At large,42,Dropped,Confirmed,0,Positive,BAG-0151-012,Active,Inactive,100000,Negative,Negative,25000,Resolved,Mumbai
+Resolved,Positive,Compromised,Compromised,Under investigation,PHO-0151-013,85,CHA-0151-013,Unresolved,,Delhi,Closed,Chennai,PRI-0151-013,At large

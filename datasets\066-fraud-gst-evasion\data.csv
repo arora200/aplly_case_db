@@ -1,0 +1,16 @@
+firm_id,gstin,registration_state,filing_regularity_pct,input_tax_claimed_lakhs,output_tax_paid_lakhs,itc_ratio,turnover_declared_cr,industry,related_firms,e_waybill_mismatches,director_common_count,fraud_score,flagged
+F001,27AABCP1234Q1Z2,Maharashtra,82,85,72,1.18,2.5,Electronics,0,2,0,18,False
+F002,07AABCK5678R1Z3,Delhi,35,220,15,14.67,0.5,Iron/Steel,8,45,4,92,True
+F003,33AAECL9012T1Z4,Tamil Nadu,90,150,145,1.03,5.8,Automobile,1,1,0,12,False
+F004,24AAFP3456U1Z5,Gujarat,25,380,8,47.5,0.2,Chemicals,12,68,3,98,True
+F005,29AAEQ7890V1Z6,Karnataka,75,95,80,1.19,3.2,IT Services,0,0,1,15,False
+F006,06AAER1234W1Z7,Haryana,20,450,5,90,0.1,Textiles,15,82,5,99,True
+F007,36AAES5678X1Z8,Telangana,85,180,165,1.09,6.1,Pharma,2,3,0,20,False
+F008,23AAET9012Y1Z9,Madhya Pradesh,15,520,3,173.33,0.05,Scrap,20,95,6,100,True
+F009,27AAEU3456Z1A1,Maharashtra,78,210,190,1.11,7.5,FMCG,1,1,0,22,False
+F010,09AAEV7890A1B2,Uttar Pradesh,22,280,12,23.33,0.3,Plastic,10,55,4,95,True
+F011,18AAEW1234B1C3,West Bengal,80,130,115,1.13,4.2,Jute,0,3,1,16,False
+F012,08AAEX5678C1D4,Rajasthan,30,350,10,35,0.15,Marble,14,60,4,96,True
+F013,04AAEY9012D1E5,Chandigarh,72,75,62,1.21,2.8,Healthcare,0,1,0,14,False
+F014,01AAEZ3456E1F6,Jammu & Kashmir,18,190,7,27.14,0.08,Dry Fruits,8,42,3,97,True
+F015,27AAFA7890F1G7,Maharashtra,88,250,235,1.06,8,Machinery,1,0,0,10,False

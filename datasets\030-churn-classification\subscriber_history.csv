@@ -1,0 +1,13 @@
+ID,Plan,Days Since Signup,Last Login (day),Status,Cancellation Event,Failed Payments,Support Tickets (last 60 days)
+S01,Premium,365,363,Active,None,0,0
+S02,Basic,240,238,Active,None,1,1 — Billing question
+S03,Pro,180,50,Active,None,0,0
+S04,Free Trial,30,29,Active,None,0,0
+S05,Premium,300,0,Cancelled,User cancelled via portal — reason: Too expensive,1,"2 — Price complaint, cancellation request"
+S06,Basic,200,195,Suspended,Payment failed after 3 retries,3,1 — Payment declined
+S07,Basic,150,5,Active,None,0,0
+S08,Premium,400,20,Active,None,0,1 — Feature request
+S09,Basic,90,1,Deleted,Account deleted by user,0,0
+S10,Pro,500,120,Active,None,0,0
+S11,Free Trial,14,10,Expired,Trial period ended,0,0
+S12,Premium,365,360,Active,None,0,3 — Multiple support requests

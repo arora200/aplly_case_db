@@ -1,0 +1,13 @@
+case_id,suspect_age,suspect_iq,interrogation_duration_hours,interrogators_present,sleep_deprivation_hours,food_water_provided,recording_type,parent_lawyer_present,evidence_shown,threats_alleged,promises_made,contradictory_forensics,confession_recanted,coerced_finding
+Active,N/A,Yes,Pending,Yes,Negative,25000,3.5,3.5,Low,2026-04-15,85,CON-0153-001,2026-04-01,2026-04-15
+25000,1,Under investigation,Active,Chennai,1,Bangalore,REC-0153-002,PAR-0153-002,Rural,25000,Detected,Kolkata,Negative,Kolkata
+Medium,SUS-0153-003,At large,INT-0153-003,True,Negative,Dropped,False,Kolkata,Dropped,Rural,42,Secure,Not detected,Yes
+Unresolved,3.5,False,Pending,N/A,Inconclusive,Not detected,Dropped,85,Closed,Pending,PRO-0153-004,Closed,Pending,Pending
+CAS-0153-005,Active,Bangalore,25000,Arrested,Arrested,Medium,Rural,Unresolved,Chennai,THR-0153-005,N/A,100000,Chennai,Chennai
+Positive,0,,Detected,Bangalore,High,,Urban,Bangalore,Active,At large,0,CON-0153-006,Compromised,Inconclusive
+Delhi,Confirmed,Bangalore,Medium,True,42,Pending,3.5,Under investigation,2026-03-15,THR-0153-007,PRO-0153-007,Positive,Under investigation,COE-0153-007
+CAS-0153-008,Compromised,True,Kolkata,100000,2026-03-15,Filed,,Medium,Negative,2026-03-15,Yes,2026-03-15,CON-0153-008,Inconclusive
+Closed,Compromised,Detected,Detected,Low,Mumbai,Bangalore,3.5,PAR-0153-009,0,2026-04-15,100000,N/A,Inconclusive,
+False,,SUS-0153-010,2026-04-01,INT-0153-010,,Kolkata,False,PAR-0153-010,3.5,Compromised,PRO-0153-010,Dropped,85,2026-04-15
+Chennai,At large,Filed,Negative,Active,,25000,85,Confirmed,At large,2026-04-01,PRO-0153-011,At large,CON-0153-011,COE-0153-011
+Dropped,Positive,SUS-0153-012,Detected,Confirmed,High,False,100000,PAR-0153-012,Medium,THR-0153-012,PRO-0153-012,Arrested,Confirmed,Pending

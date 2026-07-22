@@ -1,0 +1,13 @@
+case_id,child_age,alleged_father_age,mother_age,loci_tested,paternal_alleles_matched,maternal_alleles_matched,mutation_count,combined_paternity_index,probability_of_paternity_pct,half_sibling_index,ethnicity_frequency,test_type,court_accepted,dispute_resolved
+Secure,At large,Rural,MOT-0135-001,N/A,PAT-0135-001,MAT-0135-001,Active,Chennai,42,HAL-0135-001,ETH-0135-001,TES-0135-001,COU-0135-001,DIS-0135-001
+Not detected,0,N/A,MOT-0135-002,Mumbai,Mumbai,2026-04-01,12.5,3.5,Closed,Low,ETH-0135-002,False,False,Positive
+Closed,Delhi,,Inactive,False,2026-03-15,Delhi,False,Compromised,PRO-0135-003,HAL-0135-003,Pending,85,Pending,High
+N/A,0,High,Medium,Dropped,Negative,2026-04-15,100000,Closed,True,HAL-0135-004,100000,12.5,Resolved,Confirmed
+High,Chennai,False,Low,At large,0,Inconclusive,Dropped,Dropped,N/A,HAL-0135-005,25000,100000,Chennai,Active
+Secure,Filed,Resolved,Pending,100000,Positive,1,No,Kolkata,Kolkata,Confirmed,2026-04-01,TES-0135-006,Inconclusive,False
+No,Detected,Closed,Under investigation,Inactive,Arrested,0,MUT-0135-007,COM-0135-007,At large,Inactive,N/A,Inactive,High,Low
+Chennai,Filed,ALL-0135-008,Active,LOC-0135-008,Medium,Pending,Low,Delhi,At large,Pending,ETH-0135-008,Filed,False,2026-04-01
+CAS-0135-009,At large,2026-04-15,2026-04-01,LOC-0135-009,Detected,N/A,MUT-0135-009,Mumbai,PRO-0135-009,1,Inconclusive,0,42,N/A
+Active,Detected,Positive,Yes,LOC-0135-010,PAT-0135-010,Resolved,Not detected,COM-0135-010,Negative,Compromised,1,No,Mumbai,2026-04-15
+Yes,Unresolved,Pending,MOT-0135-011,At large,Confirmed,Unresolved,,COM-0135-011,Delhi,Mumbai,No,Urban,Urban,85
+CAS-0135-012,Resolved,Positive,2026-04-01,N/A,Inconclusive,Active,Detected,Delhi,PRO-0135-012,1,Medium,Resolved,Pending,100000

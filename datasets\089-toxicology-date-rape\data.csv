@@ -1,0 +1,15 @@
+case_id,victim_age,incident_location,incident_type,suspected_substance,detected_in_system,detection_window_hrs,time_to_test_hrs,consent_able,witness_present,cctv_available,forensic_collection_done,suspect_known,medical_exam_done,police_report_filed
+At large,False,Not detected,True,Closed,DET-0141-001,Low,Yes,CON-0141-001,WIT-0141-001,True,12.5,42,Chennai,Rural
+Confirmed,False,Pending,Medium,No,Delhi,2026-04-15,Rural,At large,Unresolved,Inconclusive,,Yes,Negative,POL-0141-002
+Inconclusive,Not detected,85,100000,Positive,Yes,0,TIM-0141-003,CON-0141-003,Unresolved,Filed,FOR-0141-003,Active,Secure,12.5
+CAS-0141-004,Active,Inconclusive,Detected,Under investigation,Delhi,DET-0141-004,At large,True,Pending,2026-04-15,True,Inactive,Kolkata,Arrested
+CAS-0141-005,0,Under investigation,INC-0141-005,No,No,DET-0141-005,TIM-0141-005,False,100000,Arrested,Pending,True,42,85
+Inactive,VIC-0141-006,Closed,Bangalore,Detected,Rural,Pending,Low,N/A,Bangalore,85,,False,42,Chennai
+CAS-0141-007,Positive,Filed,Dropped,Yes,Not detected,0,100000,Arrested,Positive,0,Low,Detected,Compromised,Confirmed
+CAS-0141-008,Filed,25000,Compromised,True,Compromised,Mumbai,TIM-0141-008,CON-0141-008,0,At large,Dropped,SUS-0141-008,Dropped,Arrested
+Dropped,Confirmed,INC-0141-009,INC-0141-009,Inconclusive,Low,Delhi,Chennai,CON-0141-009,12.5,CCT-0141-009,FOR-0141-009,0,Active,High
+Chennai,12.5,100000,Compromised,Inconclusive,Mumbai,Mumbai,High,85,Inconclusive,Delhi,Positive,N/A,100000,At large
+At large,Mumbai,Low,Low,42,Unresolved,2026-04-15,Inconclusive,High,WIT-0141-011,100000,Closed,SUS-0141-011,Chennai,Inconclusive
+N/A,Rural,Low,Filed,Inconclusive,Rural,2026-04-01,Negative,High,25000,Bangalore,Under investigation,Low,MED-0141-012,Under investigation
+Rural,VIC-0141-013,,100000,Closed,Compromised,True,Urban,Not detected,12.5,Compromised,True,Rural,Resolved,POL-0141-013
+12.5,VIC-0141-014,Inactive,N/A,2026-03-15,Kolkata,N/A,1,Delhi,1,100000,Active,Negative,Compromised,

@@ -1,0 +1,15 @@
+seizure_id,date,location,drug_name,genuine_manufacturer,batches_seized,units_seized,estimated_loss_cr,manufacturing_source,distribution_route,retail_outlets_raided,arrests,active_ingredient_pct,label_dosage,actual_dosage,health_incidents_reported
+100000,Urban,Positive,Inactive,No,Closed,Inconclusive,Pending,Confirmed,At large,12.5,False,Bangalore,LAB-0140-001,Pending,Detected
+,Detected,Detected,N/A,Chennai,Resolved,UNI-0140-002,EST-0140-002,Secure,At large,RET-0140-002,Secure,0,Mumbai,Arrested,No
+Pending,2026-03-15,Delhi,Active,Resolved,Dropped,Inconclusive,True,Medium,DIS-0140-003,Mumbai,12.5,Dropped,LAB-0140-003,Resolved,Confirmed
+SEI-0140-004,True,Secure,Unresolved,2026-03-15,Low,Not detected,Chennai,Bangalore,Yes,Low,ARR-0140-004,Kolkata,True,Unresolved,Medium
+1,Closed,LOC-0140-005,0,Unresolved,No,Mumbai,Dropped,MAN-0140-005,Active,2026-04-15,Resolved,2026-03-15,N/A,Kolkata,No
+Secure,Arrested,25000,2026-04-01,Arrested,Negative,UNI-0140-006,Bangalore,Mumbai,Not detected,RET-0140-006,2026-04-01,True,Active,Confirmed,85
+Detected,2026-04-15,Under investigation,Low,True,BAT-0140-007,Kolkata,Resolved,Bangalore,DIS-0140-007,RET-0140-007,Medium,Kolkata,1,85,Dropped
+Unresolved,DAT-0140-008,N/A,Low,At large,2026-03-15,Confirmed,Not detected,MAN-0140-008,DIS-0140-008,12.5,ARR-0140-008,ACT-0140-008,LAB-0140-008,Not detected,Compromised
+12.5,3.5,Low,Secure,0,Compromised,UNI-0140-009,1,Secure,25000,Rural,ARR-0140-009,Arrested,LAB-0140-009,Urban,Inconclusive
+12.5,12.5,Urban,Yes,2026-04-01,Rural,Resolved,Delhi,Active,Kolkata,42,No,Not detected,2026-03-15,1,HEA-0140-010
+1,DAT-0140-011,LOC-0140-011,DRU-0140-011,Urban,Positive,85,Resolved,At large,2026-04-15,Compromised,ARR-0140-011,Chennai,2026-04-01,Unresolved,2026-04-01
+0,Under investigation,Negative,100000,No,BAT-0140-012,Unresolved,2026-04-15,Secure,DIS-0140-012,42,Not detected,2026-03-15,No,ACT-0140-012,85
+Resolved,Rural,Closed,Inactive,85,True,,EST-0140-013,Dropped,42,RET-0140-013,Yes,Arrested,,Low,Chennai
+Under investigation,Chennai,Yes,At large,Bangalore,Delhi,Resolved,True,MAN-0140-014,Closed,Bangalore,Kolkata,Secure,Active,3.5,True

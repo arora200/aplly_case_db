@@ -1,0 +1,14 @@
+incident_id,date,location,waste_type,quantity_tonnes,estimated_volume_cum,hazardous,water_source_contaminated,distance_to_residential_km,complaints_received,responsible_party_identified,notice_issued,penalty_imposed_rs,cleanup_done,recurrence
+85,Low,Urban,100000,1,True,Yes,12.5,DIS-0160-001,,RES-0160-001,Confirmed,Chennai,25000,Under investigation
+Compromised,Detected,Unresolved,Active,42,Kolkata,2026-03-15,Active,True,3.5,Inconclusive,Pending,Arrested,Low,25000
+Active,Detected,Inactive,Delhi,Arrested,EST-0160-003,HAZ-0160-003,1,0,25000,12.5,Active,PEN-0160-003,2026-04-01,Chennai
+Inactive,Not detected,At large,Resolved,Medium,Pending,HAZ-0160-004,25000,Dropped,COM-0160-004,Pending,Medium,Delhi,0,REC-0160-004
+100000,2026-04-01,At large,,42,Active,,Closed,12.5,Urban,Positive,Medium,PEN-0160-005,0,True
+Dropped,Pending,N/A,Positive,Unresolved,EST-0160-006,Detected,85,High,Inactive,Detected,Kolkata,2026-04-01,High,REC-0160-006
+Arrested,Positive,2026-04-15,3.5,Secure,Pending,85,Secure,Not detected,Compromised,100000,Low,PEN-0160-007,At large,REC-0160-007
+Low,DAT-0160-008,LOC-0160-008,N/A,Delhi,,HAZ-0160-008,Pending,Pending,Secure,Compromised,Compromised,True,42,REC-0160-008
+12.5,12.5,25000,Mumbai,QUA-0160-009,2026-03-15,Yes,85,Chennai,Compromised,Arrested,Pending,False,Secure,Positive
+2026-04-01,2026-04-01,LOC-0160-010,Pending,Closed,2026-03-15,85,Medium,Arrested,,Unresolved,25000,1,2026-04-15,Pending
+2026-04-01,Medium,2026-04-01,Mumbai,True,Yes,,2026-04-15,Low,COM-0160-011,42,Urban,PEN-0160-011,1,Urban
+Detected,DAT-0160-012,N/A,Positive,Mumbai,Closed,Not detected,,25000,Closed,Dropped,3.5,Resolved,25000,Bangalore
+Dropped,Filed,Filed,42,Resolved,Compromised,Rural,Negative,Negative,COM-0160-013,Mumbai,25000,At large,N/A,REC-0160-013

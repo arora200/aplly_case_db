@@ -1,0 +1,13 @@
+evidence_id,cloud_provider,account_type,accessed_by,access_timestamp,file_accessed,file_type,action,ip_address,geo_location,device_fingerprint,shared_with,data_classification,nda_signed,security_clearance
+Unresolved,Filed,Inactive,False,ACC-0128-001,High,1,Low,N/A,100000,Chennai,Confirmed,DAT-0128-001,Detected,Negative
+2026-04-15,Urban,Detected,Filed,85,High,Yes,Mumbai,Confirmed,GEO-0128-002,No,Confirmed,1,Resolved,Arrested
+At large,Kolkata,True,Secure,Detected,FIL-0128-003,Arrested,ACT-0128-003,IP_-0128-003,Inactive,DEV-0128-003,,False,NDA-0128-003,Low
+EVI-0128-004,Compromised,,Resolved,Pending,Positive,,Chennai,False,Not detected,High,Negative,25000,Low,Not detected
+Detected,CLO-0128-005,ACC-0128-005,ACC-0128-005,True,0,False,True,Resolved,Pending,Secure,Bangalore,Not detected,2026-03-15,No
+Bangalore,Inconclusive,42,Compromised,Arrested,Detected,Negative,Bangalore,2026-03-15,Urban,True,2026-04-01,2026-04-01,NDA-0128-006,Inactive
+Compromised,Dropped,Under investigation,Not detected,ACC-0128-007,FIL-0128-007,FIL-0128-007,Dropped,Yes,Unresolved,Active,SHA-0128-007,No,Chennai,42
+EVI-0128-008,Delhi,Unresolved,Dropped,Resolved,,100000,Bangalore,IP_-0128-008,Confirmed,100000,Kolkata,DAT-0128-008,Mumbai,12.5
+True,25000,Medium,2026-04-01,True,True,Low,ACT-0128-009,At large,12.5,True,Dropped,2026-04-01,Negative,Detected
+False,Bangalore,ACC-0128-010,ACC-0128-010,True,Urban,FIL-0128-010,No,2026-03-15,GEO-0128-010,Medium,SHA-0128-010,DAT-0128-010,Dropped,100000
+Inactive,Resolved,1,2026-03-15,Rural,2026-04-01,Mumbai,2026-03-15,2026-04-15,GEO-0128-011,Inactive,,2026-03-15,Urban,85
+Medium,CLO-0128-012,Mumbai,Bangalore,ACC-0128-012,High,High,25000,2026-04-01,Compromised,Resolved,Filed,Medium,Delhi,85

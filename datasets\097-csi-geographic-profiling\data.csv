@@ -1,0 +1,15 @@
+offense_id,date,time,location_x,location_y,crime_type,day_of_week,time_of_day,distance_from_anchor_km,anchor_point_type,target_selection_method,victim_demographic,weapon_used,signature_behavior,confidence_score,linked_to_offender
+OFF-0149-001,Positive,Rural,Unresolved,Pending,False,Active,Chennai,Inactive,Secure,N/A,Confirmed,Rural,At large,100000,Delhi
+2026-04-15,Under investigation,TIM-0149-002,High,,Bangalore,Pending,False,Detected,No,Yes,0,At large,Delhi,CON-0149-002,Delhi
+Yes,Chennai,Resolved,100000,Unresolved,Arrested,Low,Inactive,Low,Urban,TAR-0149-003,Closed,WEA-0149-003,2026-04-15,2026-04-01,Delhi
+Closed,Rural,Positive,Secure,Positive,Negative,3.5,Inactive,False,,Medium,Arrested,1,Medium,2026-03-15,Delhi
+OFF-0149-005,Yes,Urban,,Under investigation,2026-03-15,Urban,Active,Medium,High,Detected,VIC-0149-005,Delhi,25000,Low,Mumbai
+OFF-0149-006,Filed,Closed,Unresolved,Positive,CRI-0149-006,25000,3.5,DIS-0149-006,Inactive,2026-03-15,VIC-0149-006,WEA-0149-006,Active,Pending,High
+12.5,Compromised,Not detected,LOC-0149-007,Compromised,N/A,Arrested,N/A,2026-04-15,Compromised,TAR-0149-007,True,Confirmed,SIG-0149-007,Dropped,Mumbai
+3.5,Low,Pending,Inactive,1,N/A,Confirmed,25000,12.5,Urban,Dropped,2026-04-01,Filed,3.5,Medium,LIN-0149-008
+2026-04-01,Unresolved,Under investigation,2026-04-15,Medium,Unresolved,Active,,Bangalore,Urban,12.5,Arrested,Pending,Pending,Under investigation,2026-03-15
+Rural,DAT-0149-010,25000,2026-03-15,Unresolved,Medium,Closed,Detected,2026-04-01,Inactive,No,1,Dropped,85,2026-03-15,Arrested
+Inconclusive,Rural,Yes,Urban,Unresolved,N/A,Resolved,2026-04-01,N/A,2026-04-15,2026-03-15,Negative,Yes,Active,Mumbai,100000
+Rural,N/A,No,Medium,No,Low,DAY-0149-012,Not detected,Kolkata,Positive,Filed,Bangalore,WEA-0149-012,Pending,Medium,LIN-0149-012
+Detected,Inactive,High,12.5,Pending,Arrested,3.5,Low,Pending,Not detected,2026-03-15,VIC-0149-013,,Closed,CON-0149-013,1
+OFF-0149-014,DAT-0149-014,Bangalore,Closed,Inconclusive,,Closed,42,Not detected,Filed,Negative,Inconclusive,Bangalore,Arrested,Arrested,LIN-0149-014

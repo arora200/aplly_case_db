@@ -1,0 +1,16 @@
+incident_id,date,location,gang_name,rival_gang,weapon_type,injuries,fatalities,territory_disputed,gang_members_involved,arrests_made,drug_connection,firearm_recovered,retaliation_motivation,intelligence_source
+42,Kolkata,Compromised,3.5,2026-04-01,Mumbai,Yes,True,Chennai,25000,Arrested,DRU-0124-001,100000,RET-0124-001,
+Closed,Low,True,GAN-0124-002,25000,,Yes,FAT-0124-002,0,False,Active,Active,No,Negative,2026-04-01
+Rural,Closed,100000,GAN-0124-003,High,Under investigation,Secure,FAT-0124-003,Positive,No,Under investigation,DRU-0124-003,Arrested,Inactive,2026-04-15
+INC-0124-004,Chennai,Yes,2026-04-15,Low,3.5,INJ-0124-004,Kolkata,Kolkata,2026-04-15,Detected,Rural,Kolkata,,Closed
+3.5,12.5,42,Positive,42,Closed,Compromised,1,2026-04-15,Bangalore,,DRU-0124-005,1,High,2026-04-15
+True,85,Pending,Resolved,Unresolved,1,Kolkata,Resolved,TER-0124-006,Delhi,25000,2026-03-15,Closed,Inconclusive,Kolkata
+INC-0124-007,Secure,Not detected,Chennai,Compromised,2026-03-15,Resolved,FAT-0124-007,Detected,GAN-0124-007,2026-03-15,Delhi,Compromised,RET-0124-007,Not detected
+Delhi,True,Negative,Unresolved,Rural,Compromised,Compromised,False,100000,0,Active,Chennai,Mumbai,0,Secure
+Filed,DAT-0124-009,Positive,12.5,,WEA-0124-009,Kolkata,Dropped,TER-0124-009,Pending,Inactive,DRU-0124-009,Urban,Rural,Chennai
+Inconclusive,Filed,At large,Yes,True,2026-04-15,Under investigation,2026-04-15,Rural,GAN-0124-010,Negative,Kolkata,FIR-0124-010,Active,Closed
+Yes,DAT-0124-011,Chennai,At large,2026-04-01,WEA-0124-011,Negative,Unresolved,2026-04-01,Kolkata,100000,Compromised,25000,RET-0124-011,High
+Compromised,High,1,At large,At large,25000,Not detected,85,Negative,Not detected,Positive,Medium,FIR-0124-012,12.5,2026-04-15
+Inconclusive,Filed,Pending,2026-04-01,Rural,Yes,Closed,Urban,No,Mumbai,High,Kolkata,12.5,RET-0124-013,2026-03-15
+Rural,Filed,,Bangalore,Not detected,25000,High,2026-03-15,Detected,Filed,Secure,Inconclusive,High,85,INT-0124-014
+3.5,Delhi,Delhi,False,High,WEA-0124-015,Mumbai,Urban,TER-0124-015,2026-04-01,ARR-0124-015,DRU-0124-015,12.5,Detected,3.5

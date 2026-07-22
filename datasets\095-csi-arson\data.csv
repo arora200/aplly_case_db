@@ -1,0 +1,16 @@
+incident_id,date,time,location,property_type,estimated_damage_rs,fire_origin,accelerant_detected,accelerant_type,ignition_source,weather_conditions,fire_department_response_mins,prior_claims_property,suspicious_circumstances,incendiary_device_found,arsonist_mo,status
+INC-0147-001,Resolved,Secure,Pending,Closed,Delhi,Secure,Urban,ACC-0147-001,Delhi,100000,FIR-0147-001,Resolved,Not detected,INC-0147-001,100000,High
+At large,Secure,TIM-0147-002,Arrested,Negative,Closed,Arrested,True,12.5,3.5,Not detected,42,Yes,Delhi,INC-0147-002,High,Pending
+Secure,Unresolved,TIM-0147-003,Under investigation,Low,1,Not detected,Compromised,False,Inconclusive,Confirmed,Resolved,No,SUS-0147-003,Under investigation,ARS-0147-003,Rural
+Medium,Low,85,Inconclusive,False,Active,Medium,Confirmed,Urban,2026-04-15,3.5,Detected,Rural,N/A,Not detected,Confirmed,Bangalore
+Compromised,True,Positive,Mumbai,PRO-0147-005,No,Unresolved,Not detected,Bangalore,Medium,3.5,Under investigation,85,SUS-0147-005,Kolkata,100000,True
+Chennai,Compromised,TIM-0147-006,Resolved,Kolkata,EST-0147-006,False,Closed,1,IGN-0147-006,N/A,FIR-0147-006,N/A,Bangalore,Compromised,Kolkata,Filed
+Detected,2026-03-15,At large,LOC-0147-007,3.5,Rural,Urban,Not detected,True,Inconclusive,N/A,Negative,12.5,Under investigation,Filed,Resolved,100000
+Active,Not detected,Compromised,Filed,Positive,Not detected,Compromised,Arrested,Inactive,Under investigation,0,FIR-0147-008,False,At large,Detected,Positive,Secure
+INC-0147-009,0,Urban,LOC-0147-009,Unresolved,Not detected,Delhi,Mumbai,ACC-0147-009,Yes,Closed,At large,12.5,Unresolved,Resolved,True,STA-0147-009
+Detected,Arrested,Urban,Active,Active,Mumbai,1,Negative,Active,Bangalore,Secure,Not detected,Confirmed,True,0,Medium,STA-0147-010
+INC-0147-011,False,High,Filed,Resolved,25000,Dropped,N/A,Positive,2026-04-01,No,Mumbai,Delhi,Secure,INC-0147-011,ARS-0147-011,3.5
+Kolkata,Kolkata,TIM-0147-012,Inconclusive,Inconclusive,High,FIR-0147-012,100000,Rural,Resolved,Delhi,3.5,Active,High,INC-0147-012,Secure,STA-0147-012
+Kolkata,High,2026-04-15,Filed,1,Chennai,No,ACC-0147-013,Bangalore,100000,0,0,Secure,SUS-0147-013,No,Negative,85
+2026-04-01,Bangalore,Delhi,Active,Dropped,2026-03-15,Chennai,2026-04-01,Detected,42,Not detected,25000,False,False,2026-03-15,,Urban
+Closed,Inactive,No,Medium,Confirmed,High,Urban,Not detected,ACC-0147-015,IGN-0147-015,2026-03-15,0,PRI-0147-015,High,Pending,Positive,Not detected

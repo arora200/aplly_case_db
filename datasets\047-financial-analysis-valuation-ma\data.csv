@@ -1,0 +1,11 @@
+company,sector,revenue_cr,revenue_growth_pct,ebitda_margin_pct,net_income_cr,total_assets_cr,total_debt_cr,pe_ratio,projected_growth_pct,comparable_deal_value_cr,synergy_estimate_cr
+TechNova,SaaS,85,38,22,12.4,120,15,52,35,450,85
+GreenScale,CleanTech,42,55,15,4.8,180,65,68,50,320,60
+HealthFirst,HealthTech,120,28,18,15.6,200,40,32,25,520,95
+FinLeap,FinTech,65,42,28,12.8,90,8,45,40,380,72
+EduSmart,EdTech,38,22,12,3.2,55,12,28,20,140,35
+DataForge,AI/ML,28,65,8,-2.1,70,20,N/A,60,250,45
+LogiSwift,LogiTech,95,32,20,14.5,150,55,38,30,480,110
+MediChain,Blockchain,15,80,5,-5.5,40,5,N/A,70,180,30
+AgriGrow,AgriTech,22,45,16,2.8,35,10,48,42,120,28
+PayCircle,FinTech,210,35,25,38.5,350,45,40,32,1200,200

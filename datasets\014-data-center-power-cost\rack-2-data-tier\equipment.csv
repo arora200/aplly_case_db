@@ -1,0 +1,7 @@
+Device ID,Role,Rated Wattage,Utilization %
+DB-01,Database Primary,800,85
+DB-02,Database Replica,800,60
+STO-01,Storage Array,1200,70
+STO-02,Storage Array,1200,65
+BACKUP-01,Backup Server,500,20
+BACKUP-02,Backup Server,500,15

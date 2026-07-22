@@ -1,0 +1,5 @@
+Parameter,Value
+Retention Days,7
+Cron Schedule,0 3 * * *
+Expected Archive Format,app-YYYYMMDD.log.gz (yesterday's date)
+Actual Archive Format (bug),app-YYYYMMDD.log.gz (today's date)

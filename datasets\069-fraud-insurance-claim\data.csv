@@ -1,0 +1,16 @@
+claim_id,policy_type,claim_amount_rs,policy_holder_age,policy_tenure_months,claim_reason,accident_location,witness_available,police_report_filed,medical_reports_count,claim_history_count,discrepancy_count,fraud_score,investigation_required,fraud_confirmed
+CL001,Health,250000,45,24,Hospitalization,Mumbai,True,True,5,2,0,12,False,False
+CL002,Motor,180000,32,6,Accident,Highway NH-8,False,False,1,0,4,85,True,True
+CL003,Life,5000000,55,120,Natural death,Home,True,True,2,3,1,15,False,False
+CL004,Health,85000,28,3,Dengue,Delhi,True,True,8,1,0,8,False,False
+CL005,Motor,450000,38,1,Theft,Parking lot,False,True,0,0,6,92,True,True
+CL006,Health,320000,62,48,Heart surgery,Chennai,True,True,12,4,1,20,False,False
+CL007,Motor,220000,25,2,Accident,City road,False,False,2,0,5,78,True,True
+CL008,Life,2000000,42,36,Accidental death,Factory,True,True,3,1,0,10,False,False
+CL009,Motor,150000,29,4,Fire damage,Parking,False,False,1,0,7,95,True,True
+CL010,Health,125000,35,8,Fracture,Sports ground,True,True,4,1,0,5,False,False
+CL011,Motor,580000,45,1,Total loss flood,Low-lying area,False,True,0,3,8,97,True,True
+CL012,Health,450000,58,60,Cancer treatment,Mumbai,True,True,15,5,0,8,False,False
+CL013,Motor,95000,22,3,Minor damage,Office parking,True,False,1,0,3,65,True,False
+CL014,Life,3500000,48,84,Heart attack,Home,True,True,4,2,2,18,False,False
+CL015,Motor,680000,52,1,Accident,Highway,False,False,2,0,9,99,True,True

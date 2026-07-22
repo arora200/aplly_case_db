@@ -1,0 +1,13 @@
+Server ID,Role,vCPU,RAM (GB),Storage (GB),Monthly Egress (GB),Current On-Prem Cost ($/mo)
+DB-01,Database Primary,8,32,2000,150,745.82
+DB-02,Database Replica,8,16,2000,100,577.8
+WEB-01,Web Server,4,8,500,400,280.4
+WEB-02,Web Server,4,8,500,400,280.4
+WEB-03,Web Server,4,8,500,400,280.4
+API-01,API Gateway,4,16,200,300,329.16
+API-02,API Gateway,4,16,200,300,329.16
+CACHE-01,Redis Cache,4,16,100,50,298.66
+CACHE-02,Redis Cache,4,16,100,50,298.66
+WORKER-01,Background Worker,8,16,500,200,466.8
+WORKER-02,Background Worker,8,16,500,200,466.8
+MONITOR-01,Monitoring,2,4,500,50,146.7

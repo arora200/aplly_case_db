@@ -1,0 +1,16 @@
+evidence_id,sample_type,collection_location,collection_date,locus_tested,allele_1,allele_2,population_frequency,random_match_probability,likelihood_ratio,combined_pi,mixture_components,degradation_level,reference_sample_match,expert_conclusion
+Negative,Kolkata,2026-04-15,Chennai,Inconclusive,2026-04-01,Kolkata,Resolved,True,LIK-0132-001,Active,Yes,12.5,N/A,EXP-0132-001
+Resolved,SAM-0132-002,Pending,High,42,Dropped,Medium,POP-0132-002,Yes,2026-03-15,COM-0132-002,85,0,2026-03-15,3.5
+At large,SAM-0132-003,3.5,COL-0132-003,Positive,True,0,Urban,Closed,2026-03-15,2026-04-01,Low,N/A,Under investigation,Under investigation
+Confirmed,Confirmed,Urban,Detected,Closed,High,Inconclusive,Arrested,Dropped,Medium,Mumbai,Inconclusive,42,Yes,Yes
+42,Low,COL-0132-005,Chennai,At large,Not detected,Kolkata,POP-0132-005,42,Closed,COM-0132-005,Detected,False,Inconclusive,Detected
+Secure,Bangalore,At large,N/A,High,2026-04-15,Medium,2026-04-15,Not detected,2026-04-01,Low,No,Rural,High,EXP-0132-006
+Dropped,2026-04-01,85,Compromised,Unresolved,100000,25000,High,85,LIK-0132-007,Kolkata,At large,Under investigation,REF-0132-007,EXP-0132-007
+EVI-0132-008,Under investigation,Active,,Secure,Yes,12.5,No,42,1,COM-0132-008,Secure,42,Yes,At large
+Arrested,Arrested,Mumbai,2026-04-01,High,At large,ALL-0132-009,POP-0132-009,RAN-0132-009,LIK-0132-009,Negative,MIX-0132-009,DEG-0132-009,Pending,Not detected
+Inconclusive,Inconclusive,Positive,Arrested,85,Negative,Confirmed,Under investigation,Low,False,85,Unresolved,N/A,42,EXP-0132-010
+Pending,Low,100000,Detected,LOC-0132-011,Kolkata,Unresolved,Secure,2026-03-15,Confirmed,2026-04-15,2026-04-15,1,2026-03-15,Delhi
+Negative,Dropped,2026-04-15,Inactive,Bangalore,85,Urban,2026-03-15,100000,2026-04-15,COM-0132-012,MIX-0132-012,12.5,2026-03-15,Bangalore
+Mumbai,Urban,Yes,2026-03-15,42,85,Resolved,Unresolved,High,LIK-0132-013,1,Closed,3.5,No,42
+Mumbai,100000,False,Closed,Yes,Pending,Unresolved,Unresolved,RAN-0132-014,2026-03-15,High,12.5,Under investigation,Mumbai,0
+0,Active,,At large,Bangalore,85,,Inactive,12.5,Urban,Bangalore,Mumbai,DEG-0132-015,No,Chennai

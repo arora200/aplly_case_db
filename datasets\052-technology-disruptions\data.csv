@@ -1,0 +1,13 @@
+sector,technology,adoption_rate_pct,impact_score_1to10,jobs_displaced_lakhs,jobs_created_lakhs,investment_cr,timeline_years,regulatory_readiness,disruption_type
+Small Farms,Precision Agritech,12,6,8,12,4500,8,Low,Transforming
+BPO/ITeS,Generative AI,35,9,45,15,25000,3,Medium,Displacing
+BPO/ITeS,RPA/Automation,50,8,30,8,15000,2,High,Displacing
+Retail,AI E-commerce,28,7,15,25,18000,5,Medium,Transforming
+Banking,AI Chatbots,45,7,12,8,12000,3,High,Displacing
+Banking,Blockchain,15,8,3,10,8000,8,Medium,Transforming
+Healthcare,AI Diagnosis,18,8,5,15,10000,6,Medium,Transforming
+Healthcare,Telemedicine,40,7,2,20,15000,4,High,Enabling
+Logistics,Autonomous Vehicles,5,8,25,10,20000,10,Low,Emerging
+Creative Arts,Generative AI,30,9,8,12,5000,3,Low,Displacing
+Legal,AI Contract Review,25,7,6,4,3000,5,Medium,Transforming
+Construction,3D Printing,4,7,10,8,6000,12,Low,Emerging

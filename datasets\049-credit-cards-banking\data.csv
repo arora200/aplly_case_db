@@ -1,0 +1,22 @@
+card_name,bank,type,annual_fee,join_fee,reward_rate_pct,cashback_pct,fuel_surcharge_waiver,lounge_access,insurance_cover_lakhs,forex_markup_pct,min_income_lakhs,interest_rate_pct
+Platinum Rewards,HDFC,Credit,1500,500,2,1,Yes,Domestic,10,2.5,6,42
+Sapphiro,ICICI,Credit,3500,1000,3,1.5,Yes,International,25,1.5,8,40
+SimplyCLICK,SBI,Credit,500,0,1,5,Yes,None,5,3.5,3,43
+Regalia Gold,HDFC,Credit,2500,500,4,1,Yes,Domestic,15,2,7,41
+Emeralde,ICICI,Credit,12000,5000,6,2,Yes,International,50,1,15,38
+ACE,Axis,Credit,500,0,1.5,2,No,None,0,3.5,3.5,42
+Magnus,Axis,Credit,10000,2500,5,1.5,Yes,International,30,1.5,12,39
+Millennia,HDFC,Credit,1000,0,1.5,5,No,None,2,3,4,42
+Club Vistara,SBI,Credit,3000,1000,2,0.5,Yes,Domestic,10,3,6,41
+Infinite,SBI,Credit,5000,1500,3,1,Yes,International,20,2,10,40
+MyZone,HDFC,Credit,0,0,1,2,No,None,0,3.5,2.5,43
+Flipkart Axis,Axis,Credit,500,0,1.5,5,No,None,2,3.5,3,42
+Amazon Pay,ICICI,Credit,0,0,2,3,No,None,0,3,2,43
+AURA,SBI,Credit,0,0,1,2,No,None,0,3.5,2,43
+RuPay Select,Various,Debit,0,0,1,0.5,Yes,None,0,0,1,0
+RuPay Platinum,Various,Debit,0,0,0.5,0.25,Yes,None,0,0,0.5,0
+Visa Signature,Various,Debit,500,0,0.5,0.25,No,Domestic,3,0,2,0
+Student Plus,SBI,Credit,0,0,0.5,1,No,None,0,4,0,44
+Business Edge,HDFC,Credit,2500,1000,3,1,Yes,Domestic,15,2.5,8,41
+Travel Platinum,ICICI,Credit,5000,1500,3,0.5,Yes,International,20,1,10,39
+Global Travel,SBI,Credit,7500,2500,4,0.5,Yes,International,30,0,12,38

@@ -1,0 +1,16 @@
+email_id,sender_ip,sender_country,recipient_domain,amount_requested_usd,urgency_level,grammar_errors,reply_rate,bank_mentioned,attachment_count,link_count,scam_type,blocked
+E001,41.203.72.15,Nigeria,gmail.com,5000000,High,12,0.02,First Bank Nigeria,2,3,Advance fee,True
+E002,41.203.85.42,Nigeria,yahoo.com,2500000,Medium,8,0.05,Zenith Bank,1,2,Advance fee,False
+E003,102.89.32.17,Ghana,outlook.com,8500000,High,15,0.01,Bank of Ghana,3,4,Inheritance,True
+E004,197.210.76.5,Nigeria,protonmail.com,12000000,Very High,10,0.03,Central Bank,1,5,Lottery,True
+E005,154.120.45.8,Nigeria,gmail.com,3500000,Low,6,0.08,GTBank,0,1,Business proposal,True
+E006,41.215.33.91,Benin,hotmail.com,7200000,High,14,0.02,EcoBank,2,3,Advance fee,True
+E007,102.65.12.55,Ivory Coast,gmail.com,10000000,Medium,9,0.04,BICICI,1,2,Contract,True
+E008,197.242.60.3,Nigeria,outlook.com,4500000,Very High,11,0.01,Access Bank,4,6,Emergency,True
+E009,41.190.28.44,Nigeria,yandex.com,6200000,High,13,0.02,FCMB,2,4,Donation,True
+E010,154.68.92.7,Cameroon,gmail.com,9000000,Medium,7,0.06,Afriland First Bank,1,2,Investment,True
+E011,197.255.15.33,Nigeria,protonmail.com,15000000,Very High,16,0.01,CBN,5,7,Inheritance,False
+E012,41.210.50.18,Nigeria,gmail.com,2800000,Low,5,0.09,Stanbic IBTC,0,1,Refund,True
+E013,102.44.78.22,Ghana,yahoo.com,7800000,High,10,0.03,GCB Bank,3,3,Lottery,True
+E014,154.120.12.66,Nigeria,outlook.com,5500000,Medium,8,0.05,UBA,1,2,Business proposal,True
+E015,41.223.90.11,Nigeria,gmail.com,4200000,High,11,0.02,Polaris Bank,2,3,Advance fee,True

@@ -1,0 +1,14 @@
+sample_id,date_collected,location,water_body,ph,tds_mg_per_L,heavy_metal_detected,metal_concentration_ppm,permissible_limit_ppm,industrial_units_upstream,discharge_point_identified,violation_notice_issued,legal_action,remediation_done,days_to_compliance
+85,Dropped,True,Inconclusive,Low,25000,Bangalore,Confirmed,PER-0157-001,Rural,Urban,Under investigation,Detected,REM-0157-001,Arrested
+Positive,N/A,Under investigation,Kolkata,Under investigation,Medium,HEA-0157-002,3.5,Unresolved,85,DIS-0157-002,High,LEG-0157-002,Closed,Detected
+High,25000,2026-04-01,Filed,True,Chennai,Low,True,PER-0157-003,2026-04-15,DIS-0157-003,Pending,,REM-0157-003,Secure
+Resolved,Rural,Detected,100000,Delhi,100000,Chennai,100000,Inconclusive,Arrested,Pending,85,2026-03-15,At large,Active
+Dropped,Unresolved,Delhi,Closed,12.5,True,True,Positive,Closed,Dropped,False,Compromised,Inconclusive,Negative,DAY-0157-005
+SAM-0157-006,Dropped,LOC-0157-006,,Positive,1,Secure,MET-0157-006,PER-0157-006,Dropped,DIS-0157-006,2026-04-01,Pending,False,Bangalore
+No,N/A,Closed,Pending,2026-03-15,12.5,False,Bangalore,2026-04-15,IND-0157-007,No,Filed,Bangalore,Compromised,Compromised
+Not detected,Unresolved,Resolved,0,Negative,TDS-0157-008,3.5,3.5,Detected,Mumbai,Delhi,Detected,Filed,1,N/A
+N/A,100000,,Closed,High,Yes,Rural,Yes,Delhi,2026-04-01,85,Delhi,Active,0,2026-04-01
+Unresolved,Confirmed,Closed,Unresolved,Urban,Positive,Bangalore,Inconclusive,,Urban,No,Medium,Inconclusive,Compromised,Urban
+Low,2026-04-01,LOC-0157-011,Inactive,Compromised,Compromised,HEA-0157-011,Positive,PER-0157-011,Yes,2026-04-01,VIO-0157-011,12.5,REM-0157-011,Dropped
+25000,Delhi,,Filed,PH-0157-012,12.5,Low,MET-0157-012,1,IND-0157-012,Kolkata,Mumbai,Rural,REM-0157-012,DAY-0157-012
+12.5,Not detected,No,Inconclusive,Negative,N/A,2026-04-01,MET-0157-013,Detected,Pending,Inconclusive,Bangalore,Confirmed,Secure,Dropped

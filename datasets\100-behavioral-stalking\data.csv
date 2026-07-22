@@ -1,0 +1,13 @@
+case_id,victim_age,stalker_age,relationship_prior,duration_months,approach_frequency_per_week,communication_modes,physical_approaches,property_damage_incidents,threats_made,restraining_order_filed,violations_of_order,escalation_observed,weapon_involved,police_involvement_count
+100000,Yes,Inactive,Under investigation,Arrested,True,High,Not detected,No,3.5,Positive,12.5,ESC-0152-001,12.5,Filed
+CAS-0152-002,VIC-0152-002,STA-0152-002,2026-03-15,Confirmed,APP-0152-002,0,PHY-0152-002,Yes,High,Urban,Arrested,100000,12.5,POL-0152-002
+Chennai,False,3.5,Closed,DUR-0152-003,Inconclusive,85,Bangalore,Closed,Chennai,3.5,Not detected,Pending,25000,25000
+Inactive,,25000,Secure,No,APP-0152-004,Chennai,Low,,1,Delhi,Under investigation,ESC-0152-004,Under investigation,Detected
+CAS-0152-005,Detected,2026-03-15,Filed,100000,APP-0152-005,COM-0152-005,Negative,Positive,Inconclusive,2026-04-15,Mumbai,Bangalore,No,2026-04-01
+CAS-0152-006,Compromised,Mumbai,Negative,Negative,12.5,25000,1,PRO-0152-006,Detected,Inconclusive,High,Delhi,Chennai,2026-04-01
+Negative,No,True,REL-0152-007,85,APP-0152-007,True,Arrested,85,Yes,2026-04-15,VIO-0152-007,Yes,2026-03-15,Under investigation
+Yes,1,Closed,REL-0152-008,Confirmed,Arrested,False,Pending,Mumbai,No,True,85,Positive,High,Detected
+CAS-0152-009,At large,STA-0152-009,REL-0152-009,2026-04-01,Low,Yes,Chennai,1,100000,True,Urban,2026-04-01,WEA-0152-009,Yes
+CAS-0152-010,12.5,Inconclusive,Positive,1,APP-0152-010,Inactive,No,Detected,THR-0152-010,False,Arrested,3.5,Pending,Yes
+2026-04-15,Secure,Inactive,100000,High,,Pending,Filed,,Unresolved,2026-03-15,Positive,ESC-0152-011,High,12.5
+Negative,High,42,Mumbai,Arrested,Closed,COM-0152-012,Compromised,False,100000,Under investigation,Negative,Active,Pending,Confirmed

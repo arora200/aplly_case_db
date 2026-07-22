@@ -1,0 +1,14 @@
+evidence_id,device_type,device_id,timestamp,event_type,sensor_reading,network_packet,firmware_version,vulnerability_known,user_action,anomaly_score,corroborates_testimony,chain_of_custody
+At large,100000,Kolkata,TIM-0131-001,2026-04-15,Filed,Kolkata,100000,Pending,Arrested,Urban,12.5,Active
+Positive,Mumbai,DEV-0131-002,2026-04-15,100000,Compromised,2026-04-01,0,Confirmed,USE-0131-002,At large,Urban,Active
+Pending,DEV-0131-003,1,False,85,Negative,NET-0131-003,Yes,12.5,2026-04-01,Positive,Delhi,85
+Unresolved,False,Detected,85,EVE-0131-004,SEN-0131-004,Mumbai,2026-04-01,3.5,0,25000,Active,Active
+Resolved,Secure,Negative,False,1,Rural,Urban,100000,N/A,0,0,COR-0131-005,100000
+2026-04-01,Dropped,At large,TIM-0131-006,,Secure,Filed,High,0,Positive,Secure,3.5,Resolved
+Dropped,Low,Negative,Resolved,True,Yes,False,Filed,3.5,High,ANO-0131-007,Active,CHA-0131-007
+,Inactive,DEV-0131-008,High,Confirmed,2026-04-15,2026-03-15,Positive,At large,2026-03-15,ANO-0131-008,Yes,12.5
+Under investigation,2026-03-15,Mumbai,Under investigation,N/A,Arrested,Medium,Not detected,Filed,Delhi,Under investigation,No,Unresolved
+2026-04-01,Inconclusive,25000,Arrested,Pending,Delhi,100000,1,False,Medium,Unresolved,100000,CHA-0131-010
+Delhi,DEV-0131-011,DEV-0131-011,Secure,2026-04-15,2026-03-15,N/A,FIR-0131-011,3.5,False,ANO-0131-011,Filed,CHA-0131-011
+EVI-0131-012,Secure,No,Compromised,Detected,Negative,No,1,85,2026-04-15,Filed,2026-04-15,Compromised
+Filed,Confirmed,False,TIM-0131-013,Filed,Pending,Filed,Low,Filed,Pending,ANO-0131-013,Resolved,Rural

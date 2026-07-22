@@ -1,0 +1,15 @@
+case_id,victim_age,victim_gender,suspected_poison,toxin_detected,concentration_mg_per_L,time_to_symptoms_mins,time_to_death_hrs,autopsy_findings,organ_affected,food_source,water_source,occupational_exposure,ruled_suicide,ruled_homicide,ruled_accident
+Secure,VIC-0138-001,High,1,Low,Compromised,2026-04-15,0,Under investigation,85,0,Delhi,High,0,Negative,False
+100000,Closed,Dropped,Filed,True,Urban,,Urban,0,Bangalore,0,WAT-0138-002,Compromised,Detected,High,RUL-0138-002
+2026-04-01,Yes,85,False,False,Arrested,Mumbai,False,High,3.5,FOO-0138-003,Closed,Inconclusive,Filed,42,Secure
+At large,True,2026-04-15,SUS-0138-004,Active,Delhi,Dropped,Kolkata,AUT-0138-004,Negative,0,Pending,Rural,1,42,85
+Urban,0,Compromised,SUS-0138-005,85,Pending,Dropped,85,Pending,N/A,42,Urban,Positive,12.5,Active,Confirmed
+2026-03-15,Positive,False,12.5,Pending,85,TIM-0138-006,Not detected,Dropped,Secure,False,Low,No,RUL-0138-006,RUL-0138-006,2026-04-01
+CAS-0138-007,True,VIC-0138-007,Closed,85,CON-0138-007,Secure,42,Not detected,42,False,Low,Rural,Compromised,Medium,Arrested
+Kolkata,Rural,25000,1,100000,N/A,3.5,Urban,25000,Dropped,Kolkata,2026-04-01,0,RUL-0138-008,85,2026-04-15
+Medium,0,VIC-0138-009,Active,Bangalore,CON-0138-009,No,25000,0,2026-03-15,At large,Positive,Unresolved,Active,Rural,Confirmed
+Chennai,3.5,Urban,Arrested,TOX-0138-010,42,85,3.5,2026-04-15,12.5,At large,3.5,Low,Unresolved,2026-04-15,Dropped
+1,VIC-0138-011,Delhi,SUS-0138-011,Compromised,Negative,Unresolved,TIM-0138-011,3.5,Positive,Rural,Inconclusive,Arrested,2026-04-15,1,0
+Medium,Filed,Chennai,Closed,,Medium,TIM-0138-012,100000,AUT-0138-012,,FOO-0138-012,At large,2026-03-15,Detected,Yes,N/A
+Positive,85,No,3.5,2026-04-01,Detected,Inconclusive,Positive,85,Secure,Closed,Active,25000,25000,Not detected,False
+Bangalore,At large,Negative,Not detected,TOX-0138-014,Inactive,High,TIM-0138-014,25000,High,Chennai,Chennai,Confirmed,Not detected,False,Rural

@@ -1,0 +1,14 @@
+seizure_id,date,location,drug_type,quantity_kg,purity_pct,street_value_cr,origin,transit_countries,destination,carrier_method,hidden_compartment,related_seizures,network_link,operation_name
+SEI-0137-001,42,LOC-0137-001,Rural,Urban,42,Yes,ORI-0137-001,85,Closed,CAR-0137-001,Secure,Inconclusive,Dropped,Kolkata
+Unresolved,At large,Pending,Pending,QUA-0137-002,Active,Urban,High,12.5,Filed,Urban,N/A,Arrested,3.5,Inactive
+Unresolved,No,42,DRU-0137-003,Medium,Dropped,Not detected,No,2026-04-01,Bangalore,3.5,Chennai,Delhi,Secure,OPE-0137-003
+Pending,Detected,Inconclusive,,Low,2026-03-15,Inconclusive,No,Dropped,Rural,Chennai,Arrested,N/A,No,Compromised
+Detected,85,Closed,,QUA-0137-005,Unresolved,No,Closed,TRA-0137-005,Low,Dropped,Bangalore,Rural,2026-04-01,True
+Confirmed,25000,85,2026-04-01,N/A,PUR-0137-006,1,Delhi,Secure,DES-0137-006,Active,Inconclusive,N/A,Low,Inactive
+SEI-0137-007,DAT-0137-007,Yes,Dropped,QUA-0137-007,Mumbai,85,Confirmed,2026-04-01,DES-0137-007,Delhi,Bangalore,Negative,Urban,Filed
+Yes,Dropped,Detected,Delhi,Urban,True,Rural,ORI-0137-008,Detected,Secure,Urban,N/A,False,Secure,Filed
+No,Bangalore,At large,Rural,100000,True,2026-04-15,True,Yes,Unresolved,Under investigation,HID-0137-009,Bangalore,Yes,85
+Not detected,Under investigation,Yes,Not detected,At large,2026-03-15,Inactive,42,TRA-0137-010,Secure,False,N/A,REL-0137-010,Detected,Negative
+25000,Filed,False,Urban,QUA-0137-011,Delhi,Urban,Under investigation,Not detected,Unresolved,CAR-0137-011,HID-0137-011,Negative,At large,No
+SEI-0137-012,Pending,Yes,Chennai,0,Bangalore,Positive,Unresolved,TRA-0137-012,100000,Unresolved,Kolkata,Closed,Bangalore,True
+SEI-0137-013,2026-04-01,Active,Bangalore,Compromised,Urban,STR-0137-013,ORI-0137-013,100000,Not detected,Confirmed,Not detected,REL-0137-013,Urban,No

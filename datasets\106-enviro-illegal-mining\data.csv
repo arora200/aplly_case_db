@@ -1,0 +1,15 @@
+incident_id,date,location_area_type,mineral_mined,estimated_tonnage,area_affected_hectares,water_table_drop_m,vegetation_loss_pct,air_quality_degradation,noise_pollution_db,blast_reported,equipment_seized,arrests_made,restoration_ordered,compensation_imposed_rs
+INC-0158-001,Secure,42,Under investigation,Urban,Urban,High,Resolved,Chennai,NOI-0158-001,1,Chennai,ARR-0158-001,Compromised,Not detected
+25000,N/A,Inconclusive,MIN-0158-002,EST-0158-002,ARE-0158-002,2026-04-01,Under investigation,Active,Inconclusive,0,Medium,Inconclusive,RES-0158-002,True
+Inconclusive,At large,False,High,Filed,Kolkata,WAT-0158-003,1,Resolved,Inactive,,Kolkata,Inconclusive,Filed,1
+12.5,Closed,Inactive,MIN-0158-004,Not detected,N/A,Arrested,Under investigation,AIR-0158-004,No,BLA-0158-004,Delhi,ARR-0158-004,Chennai,True
+Pending,Medium,Active,MIN-0158-005,Secure,False,12.5,VEG-0158-005,Secure,Under investigation,2026-04-01,False,85,42,COM-0158-005
+Medium,Yes,Arrested,2026-04-01,Inconclusive,ARE-0158-006,WAT-0158-006,VEG-0158-006,AIR-0158-006,3.5,BLA-0158-006,Bangalore,Under investigation,Inactive,
+1,Chennai,100000,100000,100000,Inconclusive,High,VEG-0158-007,Under investigation,Active,Unresolved,1,Yes,At large,2026-04-15
+0,Bangalore,Resolved,False,Under investigation,85,100000,Positive,3.5,Urban,Negative,Urban,Inconclusive,Confirmed,85
+12.5,Inactive,Negative,0,12.5,ARE-0158-009,,VEG-0158-009,At large,85,No,Positive,42,Dropped,2026-04-01
+,Chennai,Confirmed,Arrested,EST-0158-010,ARE-0158-010,WAT-0158-010,VEG-0158-010,25000,Pending,Secure,Rural,ARR-0158-010,Closed,N/A
+At large,0,LOC-0158-011,42,2026-04-01,Inconclusive,Secure,Rural,Active,12.5,Delhi,12.5,,Kolkata,Chennai
+INC-0158-012,DAT-0158-012,2026-03-15,Negative,Resolved,Chennai,Not detected,Medium,2026-03-15,2026-04-15,BLA-0158-012,Filed,2026-04-15,Pending,Mumbai
+INC-0158-013,Inconclusive,2026-04-15,Unresolved,Bangalore,N/A,Bangalore,3.5,True,1,Urban,EQU-0158-013,25000,Mumbai,Chennai
+Kolkata,No,3.5,,100000,Urban,WAT-0158-014,VEG-0158-014,Medium,Arrested,BLA-0158-014,2026-04-01,3.5,1,Detected

@@ -1,0 +1,13 @@
+evidence_id,species,location_seized,date_seized,sample_type,dna_marker,population_origin_match,geographic_origin,supply_chain_node,trafficking_route,seizure_weight_kg,estimated_value_rs,suspect_arrested,case_filed,conviction_possible
+EVI-0134-001,Delhi,2026-04-01,Active,Bangalore,DNA-0134-001,25000,Resolved,Chennai,12.5,3.5,3.5,2026-04-15,CAS-0134-001,Yes
+Urban,Bangalore,LOC-0134-002,2026-04-15,2026-03-15,Kolkata,POP-0134-002,Bangalore,Compromised,TRA-0134-002,2026-03-15,EST-0134-002,0,100000,Closed
+25000,At large,100000,2026-04-01,Under investigation,Urban,2026-04-01,Negative,12.5,1,Filed,True,42,Negative,Under investigation
+Yes,Positive,Inactive,25000,True,85,True,GEO-0134-004,Inconclusive,Positive,2026-04-15,Urban,2026-04-15,2026-04-15,2026-04-01
+Mumbai,SPE-0134-005,True,Delhi,SAM-0134-005,Delhi,Negative,85,SUP-0134-005,1,Bangalore,0,Inconclusive,CAS-0134-005,42
+2026-03-15,85,3.5,DAT-0134-006,Under investigation,Active,12.5,,Positive,TRA-0134-006,25000,Detected,SUS-0134-006,N/A,1
+12.5,Inconclusive,Mumbai,DAT-0134-007,Negative,Chennai,False,GEO-0134-007,Medium,TRA-0134-007,Unresolved,12.5,Mumbai,CAS-0134-007,2026-04-15
+EVI-0134-008,High,LOC-0134-008,42,2026-04-15,Inactive,42,Dropped,Secure,TRA-0134-008,85,EST-0134-008,3.5,100000,Compromised
+Under investigation,No,25000,Compromised,SAM-0134-009,At large,POP-0134-009,Active,Not detected,Chennai,Secure,EST-0134-009,Chennai,Medium,CON-0134-009
+Bangalore,100000,Urban,12.5,42,Inactive,,High,SUP-0134-010,85,2026-04-15,Unresolved,False,Medium,Negative
+Chennai,Compromised,Delhi,Compromised,SAM-0134-011,DNA-0134-011,Chennai,At large,SUP-0134-011,Kolkata,100000,,12.5,Bangalore,Arrested
+High,Medium,Inactive,DAT-0134-012,Negative,0,Inactive,GEO-0134-012,2026-04-15,Inconclusive,25000,0,2026-04-15,2026-03-15,CON-0134-012

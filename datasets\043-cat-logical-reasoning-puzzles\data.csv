@@ -1,0 +1,11 @@
+puzzle_id,type,clue_1,clue_2,clue_3,clue_4,entities,arrangements
+P001,Seating,A sits 3-left of B,C is opposite D,E at extreme left,F adjacent to G,"A,B,C,D,E,F,G,H",8 seats circular
+P002,Bloodline,P is Q's father,R is S's sister,T is P's wife,U is R's daughter,"P,Q,R,S,T,U",Family tree
+P003,Scheduling,Meeting M at 10am,N before O,P after Q,R at 2pm,"M,N,O,P,Q,R",6 time slots
+P004,Inequality,A > B > C,D < E,F > A,G < C > H,"A,B,C,D,E,F,G,H",8 variables
+P005,Coding,APPLE = BNQMF,MANGO = NBNHP,BANANA = CBOBOB,GRAPE = HSBQF,"APPLE,MANGO,BANANA,GRAPE",Letter shift
+P006,Seating,X is 2-right of Y,Z between W and V,U opposite T,S left of R,"R,S,T,U,V,W,X,Y,Z",9 seats linear
+P007,Bloodline,A is B's brother-in-law,C is D's mother,E is F's granddaughter,G is H's uncle,"A,B,C,D,E,F,G,H",Family tree
+P008,Distribution,Red = 2x Blue,Green = Red + 3,Total < 30,Blue > Yellow,"Red,Blue,Green,Yellow",4 colors
+P009,Direction,P walks 5km N then 3km E,Q walks 4km S then 6km W,R walks 2km E then 7km N,Dist P-Q = ?,"P,Q,R",Coordinate grid
+P010,Analogy,Doctor:Hospital :: Teacher:?,Pencil:Write :: Brush:?,Tree:Forest :: Star:?,Book:Chapter :: House:?,all,10 analogies

@@ -1,0 +1,13 @@
+incident_id,date,location,forest_type,area_burned_hectares,fire_duration_hours,cause_determined,arson_suspected,weather_conditions,wind_speed_kmph,humidity_pct,temperature_celsius,lightning_recorded,human_activity_nearby,evacuation_ordered,suspect_identified,suppression_cost_rs
+Inconclusive,Resolved,Secure,Active,25000,2026-04-15,Resolved,Urban,Inactive,Active,Detected,Mumbai,100000,HUM-0161-001,EVA-0161-001,Compromised,Rural
+Mumbai,Unresolved,42,85,ARE-0161-002,Resolved,CAU-0161-002,1,Secure,Bangalore,Closed,TEM-0161-002,Delhi,HUM-0161-002,Yes,12.5,Under investigation
+Bangalore,1,Resolved,Confirmed,True,Not detected,Confirmed,2026-03-15,Detected,Compromised,Rural,Unresolved,1,,EVA-0161-003,Medium,Detected
+N/A,DAT-0161-004,12.5,12.5,85,2026-03-15,Active,Active,Filed,True,False,Inconclusive,3.5,HUM-0161-004,EVA-0161-004,Unresolved,No
+2026-03-15,DAT-0161-005,Unresolved,Active,ARE-0161-005,25000,2026-04-01,2026-04-01,Kolkata,100000,,Not detected,Chennai,True,EVA-0161-005,,85
+At large,Active,Kolkata,Inactive,Filed,100000,At large,Under investigation,Detected,True,Delhi,Detected,12.5,Dropped,EVA-0161-006,SUS-0161-006,100000
+Under investigation,Rural,Kolkata,Bangalore,Low,1,CAU-0161-007,Inactive,Under investigation,2026-04-15,HUM-0161-007,Negative,LIG-0161-007,Chennai,Confirmed,Negative,Low
+At large,Mumbai,3.5,Pending,Secure,100000,25000,Kolkata,Delhi,Closed,HUM-0161-008,0,Rural,Negative,EVA-0161-008,2026-04-15,SUP-0161-008
+Pending,3.5,2026-04-15,Negative,ARE-0161-009,FIR-0161-009,Inconclusive,Inactive,Low,Kolkata,Medium,Resolved,Under investigation,HUM-0161-009,Arrested,2026-04-15,Kolkata
+,Not detected,3.5,FOR-0161-010,42,85,Closed,100000,No,100000,True,42,LIG-0161-010,2026-04-15,Closed,SUS-0161-010,Urban
+85,Delhi,25000,At large,12.5,Yes,100000,Low,No,WIN-0161-011,85,No,42,HUM-0161-011,EVA-0161-011,2026-04-01,No
+Low,100000,42,Yes,0,Delhi,Filed,ARS-0161-012,Positive,2026-04-15,Pending,85,100000,Kolkata,Kolkata,Delhi,85

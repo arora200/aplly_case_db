@@ -1,0 +1,16 @@
+evidence_id,video_source,platform,duration_seconds,suspected_timestamp,subjects_detected,manipulation_score,artifact_count,metadata_anomalies,audio_sync_offset_ms,lighting_inconsistency,forensic_tool_used,authentication_result,expert_opinion,admissible
+Pending,VID-0129-001,Inactive,DUR-0129-001,Under investigation,SUB-0129-001,Chennai,25000,Urban,Chennai,Resolved,Closed,Low,1,ADM-0129-001
+Compromised,,Filed,,Detected,SUB-0129-002,Bangalore,12.5,Inconclusive,Low,Negative,FOR-0129-002,Pending,Secure,Negative
+0,True,N/A,Dropped,SUS-0129-003,Bangalore,0,ART-0129-003,100000,AUD-0129-003,Dropped,0,Rural,EXP-0129-003,12.5
+Not detected,VID-0129-004,PLA-0129-004,Inconclusive,Rural,2026-04-15,Yes,Confirmed,Positive,3.5,Chennai,False,AUT-0129-004,Yes,Rural
+2026-04-15,At large,Filed,DUR-0129-005,Compromised,Under investigation,Compromised,Detected,Inactive,Mumbai,N/A,FOR-0129-005,Arrested,Closed,At large
+Under investigation,Inactive,Closed,Urban,Bangalore,Inconclusive,Unresolved,Positive,At large,AUD-0129-006,3.5,2026-04-01,Positive,3.5,1
+EVI-0129-007,12.5,PLA-0129-007,DUR-0129-007,Dropped,Rural,Unresolved,Arrested,Not detected,Compromised,85,Dropped,Pending,Pending,1
+Pending,VID-0129-008,PLA-0129-008,Positive,Unresolved,Active,Not detected,Delhi,Detected,Resolved,Medium,Inactive,Mumbai,Inactive,False
+Pending,Secure,Mumbai,DUR-0129-009,2026-04-15,Delhi,Chennai,25000,High,Pending,False,Compromised,False,Positive,Confirmed
+EVI-0129-010,3.5,3.5,Low,Delhi,Not detected,42,ART-0129-010,No,100000,Secure,0,100000,3.5,Under investigation
+True,At large,Under investigation,,2026-03-15,Secure,2026-04-01,Chennai,Inactive,Resolved,Not detected,Bangalore,False,1,12.5
+Under investigation,Compromised,PLA-0129-012,Inactive,Resolved,Urban,False,25000,2026-03-15,Confirmed,LIG-0129-012,Unresolved,Inconclusive,No,Delhi
+Chennai,Delhi,Mumbai,Inactive,Detected,Under investigation,25000,2026-04-15,Delhi,85,LIG-0129-013,Inactive,AUT-0129-013,Chennai,Filed
+1,False,85,Detected,Rural,Inactive,Resolved,0,Closed,Pending,Kolkata,Kolkata,Confirmed,3.5,Confirmed
+3.5,No,PLA-0129-015,Urban,Dropped,Inactive,Detected,Positive,Low,,3.5,High,Inconclusive,EXP-0129-015,85

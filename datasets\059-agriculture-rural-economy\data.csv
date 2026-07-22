@@ -1,0 +1,13 @@
+product,brand,category,price_rs,subsidy_available,subsidy_pct,rating_1to5,organic_certified,avg_margin_pct
+Hybrid Cotton Seed,Bayer,Seed,850,State govt,40,4.5,False,35
+Hybrid Rice Seed,Syngenta,Seed,1200,State govt,35,4.3,False,30
+Cattle Feed Concentrate,Godrej Agrovet,Feed,1450,NABARD,15,4.2,False,22
+Tractor 35HP,Mahindra,Equipment,625000,PM-KISAN,25,4.6,False,18
+Power Tiller,Kubota,Equipment,285000,State subsidy,30,4.5,False,20
+Drip Irrigation Kit,Netafim,Irrigation,45000,PMKSY,50,4.7,True,25
+Sprinkler System,Jain Irrigation,Irrigation,32000,PMKSY,45,4.5,True,22
+Organic Fertilizer,Tata Rallis,Input,550,PKVY,50,4.3,True,28
+Urea (46% N),IFFCO,Input,268,Govt fixed,0,4,False,10
+DAP Fertilizer,Coromandel,Input,1350,Govt fixed,0,4.1,False,8
+Pesticide,UPL,Input,950,None,0,4.2,False,35
+Solar Water Pump,Claro Energy,Equipment,185000,PM-KUSUM,60,4.6,True,15

@@ -1,0 +1,16 @@
+certificate_id,institution,degree,year_of_issue,candidate_name,registration_number_valid,university_records_match,hologram_genuine,signature_forged,watermark_missing,font_anomaly,qrcode_verification,ga_letter_verified,employer_flagged,action_taken
+Bangalore,Unresolved,Medium,Dropped,Unresolved,Under investigation,Inconclusive,Not detected,2026-04-01,0,Detected,Delhi,Kolkata,3.5,Detected
+25000,INS-0144-002,DEG-0144-002,Positive,Kolkata,REG-0144-002,UNI-0144-002,N/A,N/A,Medium,Negative,Medium,Unresolved,EMP-0144-002,No
+Yes,INS-0144-003,42,Filed,85,25000,Arrested,HOL-0144-003,Resolved,WAT-0144-003,Dropped,2026-03-15,85,1,Compromised
+Dropped,Dropped,Detected,Active,True,Medium,High,Bangalore,0,Kolkata,Dropped,25000,85,EMP-0144-004,25000
+Resolved,High,DEG-0144-005,25000,Closed,Inconclusive,Negative,Not detected,Confirmed,Under investigation,Positive,N/A,Delhi,Medium,No
+0,,DEG-0144-006,100000,Resolved,REG-0144-006,Mumbai,100000,100000,2026-04-15,100000,QRC-0144-006,False,At large,85
+Rural,Positive,Yes,Unresolved,Active,Not detected,Bangalore,,Bangalore,WAT-0144-007,FON-0144-007,,Chennai,Not detected,Chennai
+Urban,INS-0144-008,Rural,12.5,No,Compromised,N/A,Medium,Pending,N/A,2026-04-15,Not detected,Urban,True,Medium
+At large,No,Unresolved,25000,CAN-0144-009,True,2026-04-01,Dropped,Urban,Unresolved,Bangalore,Medium,Yes,Not detected,Rural
+CER-0144-010,INS-0144-010,,Under investigation,Arrested,Compromised,N/A,High,False,Resolved,Yes,0,Confirmed,0,N/A
+High,,Positive,Negative,Mumbai,Resolved,Bangalore,12.5,0,Low,100000,Yes,Dropped,Yes,Detected
+Compromised,INS-0144-012,Under investigation,Mumbai,CAN-0144-012,REG-0144-012,42,Negative,SIG-0144-012,,Active,100000,85,2026-03-15,ACT-0144-012
+CER-0144-013,Medium,DEG-0144-013,Yes,High,,Closed,2026-04-01,Rural,Mumbai,Positive,Confirmed,,1,Medium
+Resolved,INS-0144-014,42,Resolved,85,Active,UNI-0144-014,Compromised,N/A,Kolkata,FON-0144-014,Mumbai,High,Dropped,High
+CER-0144-015,Confirmed,DEG-0144-015,Under investigation,42,Medium,Yes,Rural,SIG-0144-015,At large,Filed,100000,Urban,2026-04-15,Low

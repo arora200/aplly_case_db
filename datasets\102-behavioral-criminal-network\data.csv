@@ -1,0 +1,16 @@
+member_id,alias,network_role,seniority_years,arrests_count,convictions_count,specialization,communication_role,violence_used,territory_controlled,monthly_income_estimated_rs,subordinates_count,superior_id,external_connections,active_status
+No,At large,Resolved,Bangalore,2026-03-15,Positive,Secure,Resolved,Closed,3.5,85,2026-03-15,2026-04-01,EXT-0154-001,3.5
+Active,ALI-0154-002,Urban,Rural,Urban,25000,SPE-0154-002,3.5,Medium,Dropped,MON-0154-002,Resolved,SUP-0154-002,Secure,ACT-0154-002
+Mumbai,Compromised,N/A,Pending,Inconclusive,Dropped,SPE-0154-003,Yes,True,2026-04-15,Inconclusive,Arrested,Unresolved,85,ACT-0154-003
+MEM-0154-004,ALI-0154-004,Resolved,85,Bangalore,Negative,42,COM-0154-004,VIO-0154-004,TER-0154-004,MON-0154-004,Compromised,No,2026-04-01,85
+,ALI-0154-005,Pending,Medium,Detected,3.5,Delhi,3.5,VIO-0154-005,High,Resolved,N/A,SUP-0154-005,EXT-0154-005,No
+Low,Negative,High,Mumbai,Detected,85,High,Secure,Pending,Inactive,Detected,Urban,12.5,,ACT-0154-006
+High,ALI-0154-007,Positive,SEN-0154-007,Detected,3.5,Negative,Negative,False,42,MON-0154-007,Filed,Closed,EXT-0154-007,Inconclusive
+Detected,Not detected,High,SEN-0154-008,Secure,Rural,Not detected,1,VIO-0154-008,42,Yes,No,Urban,EXT-0154-008,Inactive
+100000,N/A,Delhi,Chennai,Arrested,True,SPE-0154-009,COM-0154-009,False,Under investigation,MON-0154-009,1,2026-04-15,EXT-0154-009,Compromised
+Kolkata,ALI-0154-010,0,Secure,Detected,CON-0154-010,False,At large,Active,Bangalore,Active,SUB-0154-010,3.5,12.5,85
+Yes,Inactive,12.5,42,ARR-0154-011,Confirmed,Medium,0,Closed,Resolved,Pending,Bangalore,1,Active,Bangalore
+2026-03-15,2026-04-01,85,Chennai,At large,Mumbai,100000,25000,At large,3.5,Mumbai,SUB-0154-012,Delhi,2026-04-01,At large
+Delhi,Confirmed,NET-0154-013,SEN-0154-013,False,Yes,25000,COM-0154-013,VIO-0154-013,Resolved,12.5,False,1,25000,
+12.5,Under investigation,Closed,SEN-0154-014,High,Chennai,Chennai,Inactive,Closed,At large,MON-0154-014,SUB-0154-014,At large,High,Kolkata
+MEM-0154-015,Rural,Chennai,SEN-0154-015,ARR-0154-015,CON-0154-015,Medium,12.5,2026-03-15,Inactive,Delhi,SUB-0154-015,Secure,EXT-0154-015,2026-04-01

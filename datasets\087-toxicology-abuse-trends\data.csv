@@ -1,0 +1,13 @@
+year,quarter,drug_category,users_estimated_lakhs,seizures_kg,deaths_reported,treatment_centers,rehab_intakes,avg_age_of_initiation,most_affected_state,urban_pct,rural_pct,male_pct,female_pct,policy_change_recommended
+Negative,Yes,DRU-0139-001,USE-0139-001,Under investigation,100000,TRE-0139-001,Filed,1,MOS-0139-001,True,Urban,No,0,Inactive
+100000,2026-04-15,N/A,USE-0139-002,Closed,Unresolved,Yes,Compromised,Medium,MOS-0139-002,Mumbai,2026-04-01,MAL-0139-002,FEM-0139-002,At large
+Rural,QUA-0139-003,Arrested,Active,12.5,Pending,Not detected,Not detected,AVG-0139-003,Active,Inactive,Pending,At large,Not detected,Arrested
+YEA-0139-004,Negative,Positive,Arrested,42,Confirmed,TRE-0139-004,3.5,Positive,MOS-0139-004,URB-0139-004,Arrested,Inconclusive,Chennai,Active
+N/A,42,Medium,Kolkata,Mumbai,Secure,Secure,REH-0139-005,AVG-0139-005,Delhi,URB-0139-005,Low,MAL-0139-005,100000,POL-0139-005
+Urban,2026-04-15,Urban,Inactive,SEI-0139-006,Closed,Detected,Resolved,AVG-0139-006,Unresolved,2026-04-01,N/A,Negative,N/A,Kolkata
+85,Dropped,Active,2026-04-01,True,Arrested,Bangalore,REH-0139-007,Chennai,Rural,URB-0139-007,N/A,Unresolved,12.5,POL-0139-007
+Chennai,Urban,Rural,2026-04-15,Confirmed,Detected,3.5,REH-0139-008,AVG-0139-008,MOS-0139-008,High,Arrested,Secure,Low,100000
+No,QUA-0139-009,N/A,Arrested,Rural,Filed,TRE-0139-009,Medium,Urban,Delhi,1,False,Confirmed,Medium,True
+0,Inactive,Not detected,USE-0139-010,Kolkata,100000,Inactive,No,Low,Resolved,URB-0139-010,2026-04-15,N/A,FEM-0139-010,Pending
+Closed,QUA-0139-011,Delhi,2026-04-01,Urban,Kolkata,Kolkata,Delhi,AVG-0139-011,2026-04-15,Confirmed,Kolkata,Secure,1,Filed
+YEA-0139-012,12.5,True,USE-0139-012,SEI-0139-012,Inactive,TRE-0139-012,Yes,No,Bangalore,100000,Yes,Closed,2026-04-15,Urban

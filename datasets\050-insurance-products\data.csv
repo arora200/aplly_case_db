@@ -1,0 +1,17 @@
+insurer,plan_name,type,coverage_amount_lakhs,annual_premium,claim_settlement_ratio_pct,waiting_period_months,network_hospitals,co_payment_pct,room_rent_cap_rs,pre_existing_wait_months,critical_illness_cover,renewability
+Star Health,Star Comprehensive,Health,10,12450,94.8,24,12500,10,10000,36,True,Lifetime
+HDFC Ergo,Optima Secure,Health,10,11500,96.2,24,13500,0,15000,36,True,Lifetime
+ICICI Lombard,Health Saver,Health,5,8200,93.5,24,11000,10,7500,36,True,Lifetime
+Max Bupa,Health Reassure,Health,10,13100,95.1,24,12800,5,12000,36,True,Lifetime
+New India,MediShield,Health,5,6800,97,24,14000,0,5000,48,False,Lifetime
+Reliance General,Health Infinity,Health,10,9800,82.5,18,9500,15,10000,24,True,Lifetime
+LIC,Jeevan Arogya,Health,5,7500,91,30,10000,10,6000,48,False,Age 70
+Bajaj Allianz,HealthGuard,Health,5,7800,94.5,18,11500,10,8000,24,True,Lifetime
+LIC,Jeevan Umang,Life,10,18500,95.5,N/A,10000,0,N/A,True,Age 99
+HDFC Life,Click2Protect,Life,25,28500,94.8,N/A,10000,0,N/A,True,Age 85
+ICICI Pru,iProtect Smart,Life,15,16500,93.8,N/A,9500,0,N/A,True,Age 80
+Max Life,Super Term,Life,20,22000,94.2,N/A,11000,0,N/A,True,Age 85
+Bajaj Allianz,Motor Shield,Car,20,5200,96,N/A,N/A,N/A,N/A,False,1-year
+ICICI Lombard,Car Insurance,Car,15,4800,94.5,N/A,N/A,N/A,N/A,False,1-year
+HDFC Ergo,Two-Wheeler,Two-Wheeler,2,1200,95.2,N/A,N/A,N/A,N/A,False,1-year
+New India,Travel Joy,Travel,20,850,90,N/A,N/A,N/A,N/A,False,Per trip

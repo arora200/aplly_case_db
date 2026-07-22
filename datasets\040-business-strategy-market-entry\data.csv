@@ -1,0 +1,17 @@
+company,segment,market_size_cr,growth_rate_pct,competitor_count,entry_barrier,regulatory_hurdle,avg_margin_pct
+Tata Motors,Passenger EV,12500,52.3,8,Medium,Medium,9.2
+Ola Electric,Two-Wheeler EV,8200,68.7,12,Low,Low,12.8
+Mahindra,Passenger EV,6800,45.1,6,Medium,Medium,8.5
+Ather Energy,Two-Wheeler EV,4100,72.4,10,Low,Low,11.3
+BYD India,Passenger EV,3400,89.2,5,High,High,7.1
+Hero Electric,Two-Wheeler EV,5600,41.8,14,Low,Low,10.6
+MG Motor,Passenger EV,2900,63.5,7,Medium,Medium,8.9
+Bajaj Auto,Three-Wheeler EV,1800,55.9,4,Medium,Low,14.2
+Piaggio,Three-Wheeler EV,1200,48.3,3,Medium,Low,13.5
+Hyundai India,Passenger EV,5100,37.6,9,Medium,Medium,7.8
+TVS Motor,Two-Wheeler EV,3300,59.4,11,Low,Low,11.0
+Olectra,Bus EV,900,81.2,2,High,Medium,6.4
+Switch Mobility,Bus EV,600,74.8,2,High,Medium,5.9
+Kinetic Green,Three-Wheeler EV,800,52.6,4,Low,Low,12.1
+BMW India,Luxury EV,450,33.4,3,High,Low,15.3
+Mercedes-Benz,Luxury EV,380,29.7,3,High,Low,14.8

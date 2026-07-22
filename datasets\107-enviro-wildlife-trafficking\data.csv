@@ -1,0 +1,13 @@
+seizure_id,date,location,species,parts_seized,estimated_value_rs,origin_state,transit_states,destination,transport_mode,concealment_method,poaching_hotspot_nearby,protected_area_involved,international_route,arrests_made,ngo_involved
+Closed,Unresolved,High,Pending,Positive,Secure,Kolkata,Rural,Under investigation,,Bangalore,Under investigation,Under investigation,0,Active,No
+SEI-0159-002,N/A,N/A,SPE-0159-002,2026-03-15,12.5,Arrested,Negative,DES-0159-002,12.5,2026-04-15,Chennai,PRO-0159-002,3.5,100000,Rural
+True,Compromised,100000,Negative,Yes,EST-0159-003,Inactive,Kolkata,25000,Inconclusive,No,Confirmed,Inactive,No,100000,No
+SEI-0159-004,Not detected,LOC-0159-004,3.5,Closed,EST-0159-004,Inactive,Negative,85,Under investigation,Unresolved,Confirmed,2026-03-15,Inconclusive,Rural,NGO-0159-004
+Resolved,DAT-0159-005,Delhi,Dropped,Bangalore,EST-0159-005,12.5,0,Rural,Unresolved,Bangalore,Inconclusive,Medium,No,ARR-0159-005,Delhi
+Chennai,False,Inconclusive,Bangalore,Resolved,Closed,ORI-0159-006,Rural,,Under investigation,Detected,Arrested,2026-03-15,Bangalore,ARR-0159-006,100000
+Delhi,Dropped,Confirmed,3.5,Yes,Closed,ORI-0159-007,Urban,Secure,Medium,2026-03-15,Yes,Mumbai,Chennai,ARR-0159-007,Detected
+Medium,Urban,100000,SPE-0159-008,Secure,2026-03-15,Kolkata,85,DES-0159-008,Filed,Delhi,Bangalore,25000,False,ARR-0159-008,Yes
+2026-04-01,Arrested,Compromised,Detected,Kolkata,Under investigation,Resolved,Delhi,2026-04-15,Dropped,25000,Not detected,Delhi,Positive,25000,85
+Dropped,1,100000,Filed,PAR-0159-010,Inactive,ORI-0159-010,False,2026-04-01,Active,Closed,Active,No,,Closed,0
+25000,12.5,False,Inconclusive,42,EST-0159-011,Negative,3.5,Inactive,2026-03-15,CON-0159-011,At large,85,INT-0159-011,25000,NGO-0159-011
+25000,Unresolved,Medium,SPE-0159-012,No,EST-0159-012,Yes,100000,Compromised,Secure,CON-0159-012,At large,Resolved,Compromised,ARR-0159-012,High

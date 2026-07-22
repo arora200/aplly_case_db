@@ -1,0 +1,13 @@
+market,population_lakhs,gdp_per_capita_usd,internet_pct,smartphone_pct,competitor_count,regulatory_ease,market_share_leader_pct,avg_revenue_per_user,growth_rate_pct,entry_cost_cr
+Mumbai Metro,185,5200,82,91,15,Medium,28,4500,11.2,350
+Delhi NCR,165,4800,79,88,12,Medium,32,4100,10.8,320
+Bangalore,85,6100,88,94,18,High,18,5200,14.5,280
+Hyderabad,75,4500,76,85,10,Medium,22,3600,12.3,200
+Chennai,70,4200,74,82,9,Medium,25,3400,9.6,180
+Kolkata,140,3200,65,72,7,Low,35,2200,7.4,250
+Pune,55,4800,80,88,11,Medium,20,3800,13.1,150
+Ahmedabad,65,3600,71,79,6,Low,30,2800,9.2,120
+Jaipur,40,2800,62,68,4,Low,40,1900,8.5,80
+Lucknow,45,2400,58,65,3,Low,45,1600,7.1,70
+Chandigarh,12,5500,85,92,8,Medium,15,4800,10.5,60
+Indore,30,3200,68,75,5,Low,33,2500,9.8,50

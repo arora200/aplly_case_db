@@ -1,0 +1,11 @@
+facility,process,daily_capacity_units,actual_throughput,defect_rate_pct,unit_cost_rs,setup_time_mins,downtime_pct,lead_time_days,wip_inventory,labor_efficiency_pct,automation_pct
+Mumbai Plant,Assembly,5000,4350,2.3,850,45,8.5,3,12000,82,45
+Delhi Plant,Packaging,8000,7200,1.8,320,20,5.2,1,8500,88,55
+Bangalore Plant,Testing,3000,2850,0.9,1200,30,3.8,2,4000,92,70
+Chennai Plant,Assembly,6000,5100,3.1,780,50,10.2,4,15000,76,35
+Pune Warehouse,Storage,20000,18500,0.5,150,15,2.1,1,45000,90,60
+Hyderabad Unit,Fabrication,3500,2900,4.2,1500,60,12.5,5,8000,70,30
+Kolkata Depot,Dispatch,12000,10800,1.2,200,10,4.5,1,6500,85,50
+Ahmedabad Line,Assembly,4000,3600,2.8,920,40,7.8,3,10000,78,40
+Lucknow Plant,Packaging,6000,5400,2,350,25,6,2,9000,84,48
+Nagpur Unit,Fabrication,2500,2100,3.8,1650,55,11,6,7000,72,28

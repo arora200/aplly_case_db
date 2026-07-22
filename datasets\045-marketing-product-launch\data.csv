@@ -1,0 +1,13 @@
+segment,population_lakhs,awareness_pct,consideration_pct,preference_pct,purchase_intent_pct,price_sensitivity,distribution_reach_pct,ad_spend_cr,competitor_ad_spend_cr,brand_loyalty_index
+Urban Premium,120,82,55,32,25,Low,78,45,52,8.5
+Urban Mid,250,68,42,24,18,Medium,65,32,28,6.2
+Urban Budget,180,55,35,20,15,High,72,18,15,4.8
+Semi-Urban Premium,80,62,38,22,16,Low,45,12,10,7.1
+Semi-Urban Mid,200,48,30,16,12,Medium,52,15,12,5.5
+Semi-Urban Budget,150,35,22,12,9,High,58,8,7,4.2
+Rural Premium,60,45,25,14,10,Low,22,5,4,6.5
+Rural Mid,350,32,18,9,7,Medium,35,10,8,5
+Rural Budget,280,22,12,6,4,High,40,4,3.5,3.8
+Tier-1 Cities,300,75,50,28,22,Medium,82,55,60,7.8
+Tier-2 Cities,250,58,38,20,15,Medium,60,25,22,6
+Tier-3 Cities,200,40,25,13,9,High,42,12,10,4.5

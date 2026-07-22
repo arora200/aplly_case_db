@@ -1,0 +1,16 @@
+event_id,timestamp,system_affected,department,ransomware_variant,encrypted_files_count,ransom_amount_usd,paid,downtime_hours,patients_affected,backup_available,backup_restored,data_exfiltrated,entry_vector
+R001,2026-03-15 02:34,Patient DB Server,IT,LockBit 3.0,85000,500000,False,72,2400,True,True,True,Phishing email
+R002,2026-03-15 02:35,EMR System,Records,LockBit 3.0,220000,500000,False,96,3200,True,True,True,Phishing email
+R003,2026-03-15 02:36,Radiology PACS,Radiology,LockBit 3.0,45000,500000,False,48,1800,True,False,True,Phishing email
+R004,2026-03-15 02:38,Lab System,Pathology,LockBit 3.0,32000,500000,False,36,1200,True,True,True,Phishing email
+R005,2026-03-15 02:40,Billing System,Finance,LockBit 3.0,28000,500000,False,60,0,False,False,True,Phishing email
+R006,2026-03-15 03:00,AD Server,IT,LockBit 3.0,5000,500000,False,96,0,False,True,False,Phishing email
+R007,2026-03-15 03:15,Nurse Station Terminals,Nursing,LockBit 3.0,12000,500000,False,48,4000,False,False,False,Lateral spread
+R008,2026-03-15 03:30,Ambulance Dispatch,Emergency,LockBit 3.0,800,500000,False,24,500,True,True,False,Lateral spread
+R009,2026-03-15 04:00,Pharmacy System,Pharmacy,LockBit 3.0,15000,500000,False,52,3000,True,True,True,Lateral spread
+R010,2026-03-15 05:00,Scheduling System,OPD,LockBit 3.0,18000,500000,False,40,5000,True,True,False,Lateral spread
+R011,2026-03-14 18:00,Email Server,IT,LockBit 3.0,25000,500000,False,84,0,True,True,True,Initial compromise
+R012,2026-03-15 06:00,Backup Server,IT,LockBit 3.0,40000,500000,False,120,0,False,False,True,Post-compromise
+R013,2026-03-15 08:00,Patient Portal,Digital,LockBit 3.0,6000,500000,False,36,8000,True,True,True,Lateral spread
+R014,2026-03-16 10:00,HR System,HR,LockBit 3.0,3500,500000,False,24,0,True,True,False,Lateral spread
+R015,2026-03-17 00:00,Full Recovery,All,None,0,0,False,0,0,True,True,False,None

@@ -1,0 +1,13 @@
+company,sector,model_type,revenue_model,monthly_revenue_lakhs,customer_acquisition_cost_rs,lifetime_value_rs,burn_rate_lakhs,gross_margin_pct,funding_stage,total_funding_cr,unit_economics_score
+FarmLink,AgriTech,Marketplace,Commission,85,180,4500,65,22,Series A,25,6.5
+FreshDirect,Farm-to-table,Subscription,Weekly box,220,650,12000,140,35,Series B,85,8.2
+MediEasy,HealthTech,Subscription,Telemedicine,180,350,8000,110,42,Series A,40,7.8
+SkillUp,EdTech,Subscription,Course fees,320,450,15000,180,55,Series C,180,8.5
+QuickCart,Quick Commerce,Marketplace,Delivery fee,450,120,2200,350,8,Series D,500,3.2
+PayWise,FinTech,Platform,Transaction fee,520,80,3500,280,65,Series C,350,9
+SolarShare,Renewable,P2P,Energy trading,65,300,6000,45,25,Series A,20,6
+CloudDesk,SaaS,Subscription,Monthly/Annual,280,150,18000,120,72,Series C,200,9.5
+StyleHub,D2C,Direct-to-consumer,Product margin,190,550,6500,130,42,Series A,30,6.8
+CoWork India,Co-working,Membership,Desk rental,110,800,15000,75,35,Series B,60,7.2
+LoanBee,FinTech,P2P Lending,Interest spread,95,1200,20000,60,58,Series A,35,7.5
+ZeroWaste,Recycling,B2B,Material sale,35,600,12000,28,22,Seed,10,5.2

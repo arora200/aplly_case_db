@@ -1,0 +1,14 @@
+seizure_id,date,location,denomination,notes_count,total_face_value_rs,quality_score,serial_number_pattern,paper_composition,print_method_detected,origin_country,distribution_network_size,arrests_made,linked_seizures,operation_name
+,0,Unresolved,Resolved,Not detected,True,Yes,Arrested,Not detected,False,Filed,Positive,2026-04-01,LIN-0146-001,High
+1,Compromised,Pending,Under investigation,Positive,Dropped,Inactive,Chennai,Inconclusive,Not detected,25000,12.5,85,Medium,At large
+Chennai,Low,LOC-0146-003,Mumbai,,Rural,100000,Inactive,Compromised,False,85,Medium,100000,Dropped,Low
+Detected,0,Active,DEN-0146-004,0,42,Yes,25000,At large,Pending,No,False,Inactive,2026-04-01,Low
+12.5,Confirmed,Resolved,Confirmed,Arrested,Positive,QUA-0146-005,SER-0146-005,PAP-0146-005,Dropped,Detected,Unresolved,Not detected,Negative,Secure
+Resolved,Inconclusive,At large,Rural,Filed,Not detected,Unresolved,Arrested,Low,PRI-0146-006,Chennai,Dropped,False,0,Medium
+Unresolved,DAT-0146-007,Closed,Low,Detected,Chennai,Inactive,SER-0146-007,True,PRI-0146-007,12.5,Not detected,Detected,Dropped,Yes
+Bangalore,DAT-0146-008,Mumbai,At large,Under investigation,At large,2026-04-01,SER-0146-008,Filed,Medium,Arrested,DIS-0146-008,Inconclusive,Positive,2026-04-15
+100000,DAT-0146-009,Dropped,Kolkata,Dropped,False,12.5,Dropped,Medium,42,Pending,N/A,ARR-0146-009,42,2026-03-15
+Low,Medium,LOC-0146-010,2026-04-01,N/A,TOT-0146-010,Arrested,Filed,Mumbai,Inactive,2026-04-01,N/A,ARR-0146-010,No,Yes
+SEI-0146-011,Rural,No,DEN-0146-011,No,42,Inconclusive,Rural,,25000,ORI-0146-011,At large,ARR-0146-011,25000,2026-03-15
+Medium,2026-04-01,Filed,Under investigation,Negative,0,QUA-0146-012,100000,PAP-0146-012,Active,Secure,2026-04-15,Not detected,N/A,Chennai
+1,Positive,Pending,At large,NOT-0146-013,100000,Active,At large,Delhi,Closed,Bangalore,Pending,Arrested,Dropped,

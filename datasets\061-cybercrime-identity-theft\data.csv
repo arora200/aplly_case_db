@@ -1,0 +1,16 @@
+victim_id,platform,account_age_months,followers_count,impersonator_handle,similarity_score_pct,fake_accounts_detected,stolen_posts_count,reported,action_taken,ransom_demanded
+V001,Instagram,24,12500,@official_v001_fan,85,45,32,True,Takedown,
+V002,Twitter/X,36,85200,@real_v002_x,92,120,158,True,Account restored,
+V003,LinkedIn,48,3500,@v003_consulting,78,18,12,True,Profile removed,
+V004,Facebook,60,28000,@official_v004_fb,88,67,89,True,Pending,
+V005,Instagram,12,5200,@v005_original_,82,32,28,True,Takedown,
+V006,YouTube,36,45000,@V006_Channel_HD,90,28,45,True,Channel suspended,
+V007,Reddit,18,1500,,0,5,0,False,None,
+V008,Discord,6,800,@v008_admin,95,250,0,True,Server closed,500
+V009,Instagram,48,95000,@v009_real_ig,94,180,420,True,Under review,
+V010,Twitter/X,24,12000,@v010_fanpage,80,15,18,True,Takedown,
+V011,LinkedIn,36,1200,@v011_exec_search,75,8,5,True,Profile removed,
+V012,Facebook,84,65000,@v012_official_,91,95,210,True,Pending litigation,
+V013,Instagram,6,2000,@v013_fan_club,72,12,8,False,None,
+V014,YouTube,12,18500,@V014_Gaming_HD,88,15,22,True,Channel removed,
+V015,Twitter/X,48,45000,@v015_verified_,96,220,580,True,Account restored,

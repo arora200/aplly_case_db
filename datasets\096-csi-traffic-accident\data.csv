@@ -1,0 +1,15 @@
+incident_id,date,time,location,road_type,vehicle_a_type,vehicle_b_type,impact_type,skid_marks_length_m,speed_estimated_kmph,brake_condition,tire_condition,road_condition,weather,alcohol_test_a,alcohol_test_b,fatality,primary_cause
+42,25000,N/A,LOC-0148-001,Positive,Delhi,Chennai,42,Inactive,25000,25000,Negative,85,WEA-0148-001,12.5,Rural,Medium,Medium
+2026-03-15,DAT-0148-002,Compromised,Yes,Confirmed,Not detected,Resolved,Rural,Rural,Under investigation,BRA-0148-002,Chennai,2026-03-15,WEA-0148-002,42,0,1,42
+False,DAT-0148-003,Rural,True,Not detected,Low,VEH-0148-003,1,True,Unresolved,BRA-0148-003,Mumbai,Bangalore,Filed,Resolved,High,2026-03-15,Low
+At large,,Medium,False,Under investigation,1,Under investigation,Kolkata,2026-04-01,0,True,High,Secure,Delhi,85,0,High,PRI-0148-004
+INC-0148-005,DAT-0148-005,,LOC-0148-005,42,Medium,Closed,N/A,High,Unresolved,False,42,Delhi,Closed,,12.5,Low,N/A
+1,Negative,Kolkata,0,No,Rural,Pending,IMP-0148-006,Delhi,3.5,Resolved,Delhi,3.5,1,ALC-0148-006,Medium,Mumbai,Under investigation
+INC-0148-007,Urban,Chennai,Detected,0,Kolkata,Mumbai,IMP-0148-007,Unresolved,85,Confirmed,Compromised,Dropped,Unresolved,Arrested,False,Rural,2026-03-15
+Low,Medium,Compromised,LOC-0148-008,Compromised,Chennai,25000,Secure,,SPE-0148-008,Delhi,False,Closed,2026-03-15,2026-04-15,Inconclusive,High,Dropped
+Unresolved,Secure,Compromised,Inconclusive,Negative,Delhi,2026-03-15,Kolkata,85,Arrested,False,25000,ROA-0148-009,Filed,Inconclusive,ALC-0148-009,FAT-0148-009,PRI-0148-009
+Yes,Mumbai,TIM-0148-010,Confirmed,N/A,100000,Yes,N/A,False,Secure,Confirmed,3.5,1,25000,Filed,3.5,Inconclusive,12.5
+Compromised,Detected,Confirmed,Arrested,Pending,Dropped,High,12.5,3.5,Detected,42,TIR-0148-011,,Urban,Yes,Urban,Detected,Confirmed
+2026-04-01,DAT-0148-012,Chennai,Active,Secure,VEH-0148-012,Delhi,Secure,Rural,Under investigation,Positive,Resolved,N/A,Inconclusive,Active,Inconclusive,Inconclusive,Low
+Positive,85,Low,Negative,2026-04-15,Urban,Low,High,85,Negative,Resolved,TIR-0148-013,Under investigation,100000,Arrested,25000,FAT-0148-013,Arrested
+Positive,N/A,Compromised,Inactive,High,Yes,Confirmed,N/A,SKI-0148-014,Confirmed,Positive,No,ROA-0148-014,85,Confirmed,85,Yes,N/A

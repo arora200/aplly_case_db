@@ -1,0 +1,15 @@
+victim_id,body_condition,dna_sample_taken,dna_profile_status,dental_records_available,fingerprints_available,medical_implants,tattoo_scar_mark,personal_effects,dental_comparison_status,fingerprint_match_status,dna_match_status,family_reference_sample,identified,identification_method
+Inconclusive,Mumbai,Compromised,High,Inconclusive,Under investigation,Filed,,,Urban,High,85,Yes,At large,42
+Compromised,Chennai,Confirmed,True,Under investigation,2026-03-15,42,Negative,Inactive,1,Inconclusive,True,Under investigation,Rural,Bangalore
+Under investigation,N/A,Resolved,Under investigation,Chennai,FIN-0133-003,Not detected,Positive,Filed,Arrested,Inactive,Rural,No,Kolkata,Positive
+Delhi,Mumbai,Rural,Confirmed,Not detected,Delhi,Detected,TAT-0133-004,Not detected,Delhi,Inconclusive,Under investigation,Pending,At large,Pending
+Arrested,Filed,DNA-0133-005,Inconclusive,12.5,Kolkata,High,Inactive,25000,Pending,Mumbai,Delhi,FAM-0133-005,Pending,IDE-0133-005
+Detected,Arrested,DNA-0133-006,Rural,N/A,,Urban,Urban,Detected,,Under investigation,Filed,No,2026-03-15,IDE-0133-006
+Kolkata,At large,Under investigation,Confirmed,False,Not detected,Detected,Medium,Detected,DEN-0133-007,At large,Positive,3.5,Detected,IDE-0133-007
+1,,Active,Kolkata,Detected,42,Active,85,Detected,True,0,Compromised,False,85,Bangalore
+0,Compromised,Detected,2026-03-15,Not detected,At large,Yes,Mumbai,1,Under investigation,,Low,Filed,False,Mumbai
+VIC-0133-010,Negative,12.5,Compromised,Active,Chennai,False,Filed,Inactive,Pending,Resolved,Compromised,85,Filed,
+1,Arrested,Dropped,At large,Rural,2026-04-01,Chennai,Confirmed,Mumbai,2026-04-01,Under investigation,Unresolved,FAM-0133-011,IDE-0133-011,IDE-0133-011
+Confirmed,0,Under investigation,1,No,Inactive,Positive,Active,PER-0133-012,85,Unresolved,Confirmed,Resolved,Resolved,Pending
+Mumbai,BOD-0133-013,85,No,Chennai,3.5,Rural,High,0,DEN-0133-013,FIN-0133-013,25000,Positive,N/A,IDE-0133-013
+Unresolved,At large,Compromised,Urban,42,FIN-0133-014,Not detected,TAT-0133-014,3.5,100000,2026-03-15,100000,1,85,Not detected

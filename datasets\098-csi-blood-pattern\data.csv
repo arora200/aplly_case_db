@@ -1,0 +1,13 @@
+evidence_id,location_room,blood_stain_type,size_mm,shape_descriptor,directionality,impact_angle,origin_height_estimate_cm,spatter_pattern,pool_size_cm,wiped_attempted,dilution_detected,dna_match_obtained,consistent_with_scenario,expert_opinion
+2026-04-01,Urban,Positive,2026-03-15,Delhi,Inactive,100000,Rural,25000,Dropped,Closed,At large,DNA-0150-001,,42
+1,85,Pending,SIZ-0150-002,Active,DIR-0150-002,Kolkata,Positive,3.5,1,WIP-0150-002,Detected,DNA-0150-002,Inconclusive,1
+Negative,Mumbai,42,Delhi,SHA-0150-003,3.5,IMP-0150-003,Yes,At large,POO-0150-003,Rural,Rural,Active,Rural,Pending
+Chennai,Active,Compromised,25000,85,DIR-0150-004,42,Rural,Chennai,Yes,Negative,Arrested,DNA-0150-004,False,Urban
+Detected,Mumbai,Secure,Not detected,85,DIR-0150-005,Kolkata,Low,Yes,Rural,85,Not detected,DNA-0150-005,Low,EXP-0150-005
+Active,25000,Arrested,,N/A,Pending,12.5,ORI-0150-006,Low,Active,WIP-0150-006,2026-04-15,No,True,Dropped
+100000,Inconclusive,BLO-0150-007,Inconclusive,Delhi,Not detected,Yes,Rural,SPA-0150-007,Medium,Mumbai,Negative,Bangalore,3.5,0
+1,Unresolved,Yes,Bangalore,3.5,Confirmed,Not detected,Delhi,2026-04-01,0,12.5,True,DNA-0150-008,2026-04-15,Mumbai
+Mumbai,25000,85,Medium,Kolkata,Chennai,Chennai,Under investigation,12.5,POO-0150-009,100000,Delhi,Delhi,Urban,2026-04-15
+N/A,LOC-0150-010,3.5,Yes,,42,12.5,12.5,SPA-0150-010,Under investigation,Low,Urban,Negative,Active,12.5
+EVI-0150-011,Not detected,Not detected,25000,Bangalore,42,1,Secure,Compromised,2026-03-15,WIP-0150-011,100000,False,N/A,Filed
+Compromised,Inactive,Positive,Dropped,SHA-0150-012,Compromised,42,25000,Active,N/A,Arrested,DIL-0150-012,DNA-0150-012,42,12.5

@@ -1,0 +1,13 @@
+Session ID,Customer,Events,Duration
+S01,C001,/ → /products/mobiles → /cart → /checkout → /order/confirm,12 min
+S02,C002,/ → /products/laptops → /products/laptop-123 → /cart → /checkout → /order/confirm,18 min
+S03,C003,/ → /products/mobiles → /cart → /checkout → /order/confirm,8 min
+S04a,C004,/ → /search?q=headphones → /products/headphones-x → /cart,5 min
+S04b,C004,/home → /cart → /checkout → /order/confirm,3 min
+S05,C005,/ → /products/home → /products/sofa → /cart,15 min
+S06,C006,/ → /products/mobiles → /products/phone-a,4 min
+S07,C007,/ → /products/laptops → /products/laptop-456 → /cart → /checkout,20 min
+S08,C008,/ → /products/books,2 min
+S09,C009,/bag → /checkout → /order/confirm,6 min
+S10a,C010,/ → /products/shoes → /products/shoe-789 → /cart → /checkout,11 min
+S10b,C010,/ → /order/confirm,2 min

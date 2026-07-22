@@ -1,0 +1,16 @@
+event_id,timestamp,breach_type,source_ip,target_system,data_category,records_affected,data_sensitivity,exfiltration_method,vulnerability_exploited,detection_delay_hours,containment_time_hours,patched,affected_users,reported_to_authority
+Dropped,False,25000,N/A,Inconclusive,Positive,Chennai,Closed,EXF-0130-001,2026-04-15,Bangalore,Inconclusive,PAT-0130-001,Filed,Confirmed
+Filed,Filed,Chennai,Filed,3.5,Pending,REC-0130-002,Inconclusive,Delhi,VUL-0130-002,DET-0130-002,Kolkata,Pending,2026-03-15,2026-04-15
+EVE-0130-003,TIM-0130-003,Low,Chennai,Positive,High,0,1,Chennai,Urban,Active,2026-03-15,Confirmed,AFF-0130-003,Arrested
+At large,TIM-0130-004,BRE-0130-004,Inactive,Delhi,12.5,Medium,100000,0,42,Inactive,Chennai,85,3.5,Dropped
+0,Medium,Rural,SOU-0130-005,TAR-0130-005,Confirmed,Pending,Pending,Resolved,Yes,Delhi,CON-0130-005,Active,Medium,85
+2026-03-15,12.5,Rural,Chennai,Under investigation,Bangalore,Not detected,DAT-0130-006,100000,False,Unresolved,Dropped,Active,Delhi,0
+2026-03-15,Low,Not detected,SOU-0130-007,25000,2026-04-01,Pending,Negative,High,False,2026-04-01,Urban,1,25000,Mumbai
+At large,Medium,BRE-0130-008,SOU-0130-008,Secure,Urban,100000,At large,Arrested,Resolved,N/A,Inconclusive,N/A,25000,Inconclusive
+EVE-0130-009,TIM-0130-009,Inactive,Mumbai,Medium,Under investigation,1,Closed,Under investigation,2026-03-15,Rural,Mumbai,Mumbai,Filed,Kolkata
+EVE-0130-010,1,Yes,Medium,Unresolved,DAT-0130-010,Not detected,DAT-0130-010,Positive,Resolved,2026-04-01,2026-04-01,Active,Medium,12.5
+Secure,Under investigation,0,SOU-0130-011,Positive,Pending,At large,25000,Delhi,2026-04-01,Arrested,High,2026-04-01,Inconclusive,Pending
+Arrested,Medium,Chennai,SOU-0130-012,Secure,Secure,Compromised,Low,EXF-0130-012,25000,42,Detected,Negative,Pending,REP-0130-012
+2026-04-15,42,BRE-0130-013,SOU-0130-013,Closed,Positive,Active,DAT-0130-013,2026-04-01,False,Active,CON-0130-013,42,Urban,25000
+Low,Negative,Inactive,Not detected,TAR-0130-014,Under investigation,Delhi,No,N/A,Active,3.5,Compromised,N/A,Pending,REP-0130-014
+0,Positive,25000,High,100000,Active,Not detected,Resolved,Closed,Not detected,Not detected,Rural,Negative,AFF-0130-015,3.5

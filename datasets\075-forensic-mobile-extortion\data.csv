@@ -1,0 +1,15 @@
+evidence_id,device_type,os_version,seized_date,forensic_tool,data_extracted,call_logs,sms_count,whatsapp_messages,location_history_points,deleted_files_recovered,encryption_status,breakthrough_finding,chain_of_custody,exhibit_number
+Inactive,,12.5,Pending,Filed,Filed,Rural,Low,42,Low,Mumbai,Pending,Yes,True,EXH-0127-001
+At large,Unresolved,No,Filed,Active,3.5,High,Negative,True,Confirmed,Resolved,100000,True,Urban,Under investigation
+Low,True,Secure,SEI-0127-003,FOR-0127-003,DAT-0127-003,Medium,SMS-0127-003,,Chennai,42,42,Positive,Rural,Filed
+At large,Delhi,Detected,2026-04-01,Delhi,85,Medium,High,Under investigation,Pending,0,Active,Dropped,At large,Filed
+25000,3.5,1,Rural,0,0,Dropped,SMS-0127-005,Low,Urban,DEL-0127-005,Negative,85,Filed,Inactive
+25000,25000,Delhi,Arrested,2026-04-01,3.5,Yes,SMS-0127-006,Arrested,2026-04-15,0,Inconclusive,Delhi,False,Dropped
+EVI-0127-007,Confirmed,Medium,Unresolved,Resolved,At large,CAL-0127-007,Filed,Medium,12.5,Kolkata,2026-03-15,Medium,Urban,Not detected
+Dropped,Active,Inactive,SEI-0127-008,FOR-0127-008,Medium,CAL-0127-008,SMS-0127-008,Not detected,Low,Detected,Inactive,2026-04-01,CHA-0127-008,2026-03-15
+EVI-0127-009,True,12.5,SEI-0127-009,2026-04-01,12.5,Yes,2026-04-15,Delhi,Positive,2026-04-15,ENC-0127-009,Yes,2026-04-15,3.5
+,Active,3.5,85,N/A,Yes,Secure,Bangalore,Not detected,Bangalore,Yes,ENC-0127-010,High,Compromised,
+Inactive,True,Delhi,Yes,Negative,Unresolved,Positive,0,True,Active,Detected,Urban,25000,Secure,Dropped
+100000,Detected,Medium,Negative,Dropped,42,CAL-0127-012,Arrested,Secure,Active,Confirmed,Bangalore,0,Compromised,25000
+Low,Confirmed,Inactive,At large,2026-04-15,Under investigation,CAL-0127-013,Closed,Rural,LOC-0127-013,2026-04-01,0,Bangalore,No,True
+Delhi,2026-04-01,Arrested,SEI-0127-014,2026-04-01,Inconclusive,Inconclusive,25000,Rural,Unresolved,Closed,ENC-0127-014,False,True,2026-04-01

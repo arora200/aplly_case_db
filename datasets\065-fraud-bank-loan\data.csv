@@ -1,0 +1,16 @@
+application_id,loan_type,loan_amount_lakhs,income_lakhs,credit_score,employment_type,employer_verified,discrepancy_count,fraud_indicators,status,fraud_flagged
+L001,Home,50,12,620,Salaried,True,3,"Income mismatch, address fake",Rejected,True
+L002,Personal,15,8,580,Self-employed,False,5,ITR mismatch,Rejected,True
+L003,Business,100,35,700,Self-employed,True,1,None,Approved,False
+L004,Education,10,5,650,Student,True,4,College unverified,Rejected,True
+L005,Vehicle,8,6,550,Salaried,True,2,None,Approved,False
+L006,Home,75,18,720,Salaried,True,0,None,Approved,False
+L007,Personal,25,10,510,Self-employed,False,6,Bank statement tampered,Rejected,True
+L008,Business,200,50,740,Self-employed,True,0,None,Approved,False
+L009,Education,8,4,600,Student,False,3,Offer letter fake,Rejected,True
+L010,Vehicle,12,9,680,Salaried,True,0,None,Approved,False
+L011,Personal,20,7,480,Salaried,False,7,Salary slip fabricated,Rejected,True
+L012,Home,85,22,690,Salaried,True,0,None,Approved,False
+L013,Business,150,45,710,Self-employed,True,0,None,Approved,False
+L014,Education,15,6,620,Student,True,2,Marksheet fake,Rejected,True
+L015,Vehicle,6,4,650,Salaried,True,1,None,Approved,False

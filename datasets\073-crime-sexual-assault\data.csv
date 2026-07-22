@@ -1,0 +1,15 @@
+incident_id,date,time,location,location_type,day_of_week,victim_age_group,perpetrator_known,perpetrator_relation,weapon_threat,prior_complaints_in_area,cctv_available,forensic_evidence_collected,reported_within_24hrs,pattern_match_score
+At large,12.5,2026-04-01,Bangalore,85,Medium,Confirmed,Closed,High,Pending,PRI-0125-001,Inactive,Mumbai,12.5,PAT-0125-001
+Active,25000,At large,LOC-0125-002,100000,Delhi,VIC-0125-002,42,Rural,Positive,Mumbai,Arrested,Pending,REP-0125-002,Rural
+Kolkata,True,Rural,2026-03-15,2026-04-15,Confirmed,Dropped,Negative,PER-0125-003,Arrested,1,Filed,2026-04-15,Inconclusive,False
+Pending,DAT-0125-004,Negative,Medium,Compromised,DAY-0125-004,False,Pending,Compromised,Confirmed,Resolved,0,Dropped,Urban,Delhi
+At large,DAT-0125-005,,High,Compromised,Inconclusive,No,Pending,Urban,1,Yes,Mumbai,Mumbai,Unresolved,Under investigation
+Chennai,Delhi,2026-03-15,Filed,LOC-0125-006,Inconclusive,25000,0,Rural,Inconclusive,42,Kolkata,Closed,Dropped,Compromised
+Urban,Filed,Active,85,Not detected,2026-03-15,Yes,Not detected,Bangalore,Bangalore,N/A,Yes,Resolved,REP-0125-007,2026-04-01
+42,Inconclusive,TIM-0125-008,True,Filed,DAY-0125-008,2026-04-15,N/A,100000,2026-04-15,No,Delhi,FOR-0125-008,At large,Delhi
+Secure,DAT-0125-009,False,2026-04-01,Mumbai,Dropped,Positive,Medium,At large,Kolkata,Pending,CCT-0125-009,Chennai,Pending,2026-03-15
+Medium,DAT-0125-010,True,Under investigation,Unresolved,Compromised,VIC-0125-010,85,PER-0125-010,2026-04-01,Detected,CCT-0125-010,Medium,Positive,Mumbai
+Chennai,DAT-0125-011,High,Dropped,Rural,DAY-0125-011,Medium,100000,High,WEA-0125-011,1,Low,FOR-0125-011,Low,Compromised
+Pending,42,Rural,Not detected,LOC-0125-012,12.5,2026-04-01,True,Mumbai,Rural,Urban,CCT-0125-012,3.5,Filed,25000
+INC-0125-013,Arrested,2026-04-15,Chennai,Low,Not detected,Medium,85,2026-03-15,Kolkata,Dropped,12.5,Negative,25000,1
+Dropped,Pending,Secure,Inactive,Delhi,DAY-0125-014,Positive,PER-0125-014,0,False,Urban,Not detected,Closed,Pending,Negative

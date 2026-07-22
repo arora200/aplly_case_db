@@ -1,0 +1,16 @@
+incident_id,date,time,location,area_type,entry_method,items_stolen,estimated_loss_rs,day_of_week,distance_from_previous_km,mo_signature,cctv_available,witness_present,suspect_description,linked_incidents
+B001,2026-01-05,02:15,Green Park,Residential,Window forced,"Jewelry, cash",850000,Sunday,0,Rear window,True,False,"Medium build, dark clothes",4
+B002,2026-01-12,03:00,Lajpat Nagar,Commercial,Door lock picked,Electronics,320000,Monday,2.5,Rear entry,False,False,None,3
+B003,2026-01-19,02:45,Defence Colony,Residential,Window forced,Jewelry,1200000,Monday,3.8,"Rear window, jewelry only",True,True,"Tall, mask",5
+B004,2026-02-02,02:30,Hauz Khas,Residential,Terrace access,"Laptop, cash",450000,Monday,4.2,Upper floor,False,False,None,3
+B005,2026-02-09,03:15,Greater Kailash,Residential,Window forced,"Jewelry, watches",2200000,Monday,2.1,Rear window,True,False,"Medium build, gloved",6
+B006,2026-02-16,01:45,Vasant Vihar,Residential,Door forced,"Cash, gold",950000,Monday,5.6,"Front door, quick exit",False,True,"Short, stocky",2
+B007,2026-02-23,02:00,Saket,Commercial,Window forced,"Phones, cash",180000,Monday,3.2,Small window,False,False,None,4
+B008,2026-03-02,02:20,Dwarka,Residential,Balcony access,Jewelry,680000,Monday,8.5,High-rise balcony,True,False,Thin build,5
+B009,2026-03-09,03:00,Rohini,Residential,Door lock picked,"Cash, electronics",420000,Monday,6.8,Rear entry,False,False,None,3
+B010,2026-03-16,02:10,Pitampura,Residential,Window forced,Jewelry,1500000,Monday,3.5,Rear window,True,True,"Tall, athletic",7
+B011,2026-03-23,02:50,Janakpuri,Residential,Terrace access,Cash,280000,Monday,4.8,Multi-story,False,False,None,2
+B012,2026-03-30,01:30,Uttam Nagar,Residential,Door forced,"Jewelry, gadgets",750000,Monday,6.2,Front door,False,False,None,3
+B013,2026-04-06,03:20,Paschim Vihar,Residential,Window forced,"Cash, jewelry",1800000,Monday,2.8,Rear window,True,False,Medium build,6
+B014,2026-04-13,02:40,Model Town,Residential,Window forced,Jewelry,920000,Monday,4.5,"Rear window, gloved",False,False,None,4
+B015,2026-04-20,01:55,Shalimar Bagh,Residential,Door lock picked,"Cash, electronics",560000,Monday,3.9,Rear door,False,True,"Short, agile",3
