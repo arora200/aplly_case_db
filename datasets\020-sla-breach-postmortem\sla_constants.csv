@@ -1,6 +1,0 @@
-Parameter,Value
-SLA Target (%),99.9
-SLA Tolerance (min/month),43
-Q3 Actual Uptime (%),98.7
-Q3 Total Downtime,5h 30m
-Penalty per 0.1% below (₹L),12

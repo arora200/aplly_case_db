@@ -1,4 +1,0 @@
-order_id,currency,amount,order_timestamp
-ORD-1001,EUR,120.0,2026-09-15 10:00:00
-ORD-1002,EUR,75.5,2026-09-15 10:05:00
-ORD-1003,USD,50.0,2026-09-15 10:10:00

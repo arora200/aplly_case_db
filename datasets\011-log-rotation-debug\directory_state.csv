@@ -1,9 +1,0 @@
-File,Description
-app.log,"Current day's log (growing, 12MB)"
-app-20260914.log.gz,7 days old (rotated Mon)
-app-20260913.log.gz,8 days old
-app-20260912.log.gz,9 days old
-app-20260911.log.gz,10 days old
-app-20260910.log.gz,11 days old
-app-20260909.log.gz,12 days old
-app-20260908.log.gz,13 days old

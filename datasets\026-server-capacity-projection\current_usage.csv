@@ -1,4 +1,0 @@
-Tier,Servers,CPU Capacity (cores),Current CPU Usage (cores),CPU Util %,RAM Capacity (GB),Current RAM Usage (GB),Storage Capacity (TB),Current Storage Used (TB)
-Web,5,40,24,60,64,38.4,5,2.5
-App,3,24,15.6,65,48,31.2,2,1.1
-DB,2,32,22.4,70,64,48,10,7

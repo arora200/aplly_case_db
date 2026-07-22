@@ -1,4 +1,0 @@
-Server Type,Capacity (req/sec),Current Count
-Web Server,250,10
-App Server,300,5
-DB Server,500,2

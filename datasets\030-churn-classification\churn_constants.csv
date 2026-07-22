@@ -1,9 +1,0 @@
-Parameter,Value
-Current Day,365
-Silent Churn Threshold (days),90
-Payment Retry Attempts,3
-Payment Retry Window (days),7
-Inactivity Auto-Cancel (days),180
-Monthly Active Subscribers,5000
-Average Revenue per Subscriber (₹/mo),2400
-Board Reported Churn Rate (%),2

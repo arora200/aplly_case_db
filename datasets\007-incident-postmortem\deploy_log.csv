@@ -1,4 +1,0 @@
-Timestamp,Level,Message
-06-Sep 09:30,INFO,Build #4471 deployed to staging
-08-Sep 14:00,WARN,Build #4471 auto-promoted to production
-08-Sep 15:30,CRITICAL,Build #4471 rolled back from production

@@ -1,7 +1,0 @@
-KPI,Formula,Dimension
-Total Revenue,Sum of all sales,Growth
-New Customers,Count of first-time buyers,Acquisition
-Avg Order Value,Total Revenue / Total Orders,Spending depth
-Retention Rate,Repeat customers / total customers,Loyalty
-Sales Team Utilization,Billable hours / available hours,Activity
-Profit Margin,(Revenue − COGS − Overhead) / Revenue,Efficiency

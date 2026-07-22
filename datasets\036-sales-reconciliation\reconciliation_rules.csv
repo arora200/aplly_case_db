@@ -1,6 +1,0 @@
-Rule,Value
-Online-POS Match Tolerance (₹),100
-Distributor Match Tolerance (₹),500
-Online Amount Includes,GST + delivery
-POS Amount Includes,"GST, no delivery"
-Distributor Amount,"Wholesale, ex-GST"

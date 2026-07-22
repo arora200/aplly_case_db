@@ -1,5 +1,0 @@
-Resource,Rate ($),Unit
-vCPU,0.042,per hr
-RAM,0.014,per hr per GB
-Storage,0.08,per GB per month
-Egress,0.09,per GB

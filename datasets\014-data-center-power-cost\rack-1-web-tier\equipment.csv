@@ -1,7 +1,0 @@
-Device ID,Role,Rated Wattage,Utilization %
-WEB-01,Web Server,450,65
-WEB-02,Web Server,450,72
-WEB-03,Web Server,450,58
-LB-01,Load Balancer,300,45
-SW-01,Top-of-Rack Switch,150,80
-MON-01,Monitoring Appliance,200,30

@@ -1,7 +1,0 @@
-Category,Trigger Keywords
-Security,"auth fail, unauthorized, ssl, certificate, invalid token, block, suspicious, rate limit"
-Performance,"slow, timeout, cpu, memory, threshold exceed, pool exhaust, latency"
-Availability,"unreachable, health check fail, 502, 503, down, refused connection"
-Configuration,"file not found, missing, env variable, not set, wrong param, version mismatch"
-Application,"null reference, invalid, business logic, contract violation, negative, exception"
-Unknown,(default — no match)

@@ -1,5 +1,0 @@
-Parameter,Value
-"Seasonal Peak Multiplier (Month 11, Web tier)",1.8
-Warning Threshold (%),80
-Critical Threshold (%),90
-Provisioning Lead Time (weeks),8
